@@ -1,831 +1,969 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="PERU - WILLAX HD">
-    <display-name lang="es">PERU - WILLAX HD</display-name>
+  <channel id="PER-Willax (TV)(720)">
+    <display-name lang="es">PER-Willax (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - ATV HD">
-    <display-name lang="es">PERU - ATV HD</display-name>
+  <channel id="PER-ATV (TV)(720)">
+    <display-name lang="es">PER-ATV (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - LATINA TELEVISIÓN SD">
-    <display-name lang="es">PERU - LATINA TELEVISIÓN SD</display-name>
+  <channel id="PER-Latina (TV)(720)">
+    <display-name lang="es">PER-Latina (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - CAPITAL TV FHD">
-    <display-name lang="es">PERU - CAPITAL TV FHD</display-name>
+  <channel id="ARG-El Trece (O)(720)">
+    <display-name lang="es">ARG-El Trece (O)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - PANAMERICANA SD">
-    <display-name lang="es">PERU - PANAMERICANA SD</display-name>
+  <channel id="PER-Panamericana (TV)(720)">
+    <display-name lang="es">PER-Panamericana (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - AMERICA TV HD">
-    <display-name lang="es">PERU - AMERICA TV HD</display-name>
+  <channel id="NOT-CNN en Español (M)(1080)">
+    <display-name lang="es">NOT-CNN en Español (M)(1080)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="PERU - AMERICA TV SD">
-    <display-name lang="es">PERU - AMERICA TV SD</display-name>
+  <channel id="PER-America TV (TV)(720)">
+    <display-name lang="es">PER-America TV (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210729040000 -0700" stop="20210729080000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">PBO Digital</title>
-  </programme>
-  <programme start="20210729080000 -0700" stop="20210729090000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">El Dr. Borda</title>
-  </programme>
-  <programme start="20210729090000 -0700" stop="20210729093000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Un dia en el mall</title>
-  </programme>
-  <programme start="20210729093000 -0700" stop="20210729103000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Beto a Saber</title>
-  </programme>
-  <programme start="20210729103000 -0700" stop="20210729114000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Willax Noticias Edición Mediodía</title>
-  </programme>
-  <programme start="20210729114000 -0700" stop="20210729140000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Gana con Willax</title>
-  </programme>
-  <programme start="20210729140000 -0700" stop="20210729144500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Un dia en el mall</title>
-  </programme>
-  <programme start="20210729144500 -0700" stop="20210729165000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Taquilla Willax</title>
-  </programme>
-  <programme start="20210729165000 -0700" stop="20210729175500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Willax Noticias Edición Central</title>
-  </programme>
-  <programme start="20210729175500 -0700" stop="20210729185500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Milagros Leiva, entrevista</title>
-  </programme>
-  <programme start="20210729185500 -0700" stop="20210729200000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Beto a Saber</title>
-  </programme>
-  <programme start="20210729200000 -0700" stop="20210729200500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Yo Caviar con Aldo Mariátegui</title>
-  </programme>
-  <programme start="20210729200500 -0700" stop="20210729210500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Combutters</title>
-  </programme>
-  <programme start="20210729210500 -0700" stop="20210729211000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Camotillo, el Tinterillo</title>
-  </programme>
-  <programme start="20210729211000 -0700" stop="20210729220000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Bayly</title>
-  </programme>
-  <programme start="20210729220000 -0700" stop="20210729230000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">La Milenaria</title>
-  </programme>
-  <programme start="20210729230000 -0700" stop="20210730000000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Programación Pagada</title>
-  </programme>
-  <programme start="20210730000000 -0700" stop="20210730040000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Nutrisa</title>
-  </programme>
-  <programme start="20210730114000 -0700" stop="20210730115000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Gana con Willax</title>
-  </programme>
-  <programme start="20210730115000 -0700" stop="20210730140000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Amor y Fuego</title>
-  </programme>
-  <programme start="20210730140000 -0700" stop="20210730144500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Un dia en el mall</title>
-  </programme>
-  <programme start="20210730144500 -0700" stop="20210730165000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Taquilla Willax</title>
-  </programme>
-  <programme start="20210730165000 -0700" stop="20210730175500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Willax Noticias Edición Central</title>
-  </programme>
-  <programme start="20210730175500 -0700" stop="20210730185500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Milagros Leiva, entrevista</title>
-  </programme>
-  <programme start="20210730185500 -0700" stop="20210730200000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Beto a Saber</title>
-  </programme>
-  <programme start="20210730200000 -0700" stop="20210730200500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Yo Caviar con Aldo Mariátegui</title>
-  </programme>
-  <programme start="20210730200500 -0700" stop="20210730210500 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Combutters</title>
-  </programme>
-  <programme start="20210730210500 -0700" stop="20210730211000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Camotillo, el Tinterillo</title>
-  </programme>
-  <programme start="20210730211000 -0700" stop="20210730220000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Bayly</title>
-  </programme>
-  <programme start="20210730220000 -0700" stop="20210730230000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">La Milenaria</title>
-  </programme>
-  <programme start="20210730230000 -0700" stop="20210731000000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Programación Pagada</title>
-  </programme>
-  <programme start="20210731090000 -0700" stop="20210731100000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Mundo tuerca</title>
-  </programme>
-  <programme start="20210731100000 -0700" stop="20210731120000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Dulce venganza</title>
-  </programme>
-  <programme start="20210731120000 -0700" stop="20210731130000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Descubre el Perú</title>
-  </programme>
-  <programme start="20210731130000 -0700" stop="20210731140000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Al Día con Willax</title>
-  </programme>
-  <programme start="20210731140000 -0700" stop="20210731145000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Dragon ball super</title>
-  </programme>
-  <programme start="20210731145000 -0700" stop="20210731165000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Butaca vip</title>
-  </programme>
-  <programme start="20210731165000 -0700" stop="20210731180000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">1214 No Tenemos Miedo a los Cobardes</title>
-  </programme>
-  <programme start="20210731180000 -0700" stop="20210731190000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Políticas</title>
-  </programme>
-  <programme start="20210731190000 -0700" stop="20210731200000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822040000 -0700" stop="20210822050000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Crónicas de impacto</title>
   </programme>
-  <programme start="20210731200000 -0700" stop="20210731210000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">La Vacuna Electoral</title>
-  </programme>
-  <programme start="20210731210000 -0700" stop="20210731220000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Vida y Milagros</title>
-  </programme>
-  <programme start="20210801040000 -0700" stop="20210801050000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Crónicas de impacto</title>
-  </programme>
-  <programme start="20210801050000 -0700" stop="20210801060000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822050000 -0700" stop="20210822070000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Nutrisa</title>
   </programme>
-  <programme start="20210801060000 -0700" stop="20210801070000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Mundo tuerca</title>
-  </programme>
-  <programme start="20210801070000 -0700" stop="20210801090000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822070000 -0700" stop="20210822090000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Película Religiosa</title>
   </programme>
-  <programme start="20210801090000 -0700" stop="20210801100000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822090000 -0700" stop="20210822100000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">La Misa</title>
   </programme>
-  <programme start="20210801100000 -0700" stop="20210801110000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822100000 -0700" stop="20210822110000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Pierangeli en Casa</title>
   </programme>
-  <programme start="20210801110000 -0700" stop="20210801120000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822110000 -0700" stop="20210822120000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Hechos en Willax</title>
   </programme>
-  <programme start="20210801120000 -0700" stop="20210801130000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822120000 -0700" stop="20210822130000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Vida y Milagros</title>
   </programme>
-  <programme start="20210801130000 -0700" stop="20210801180000 -0700" channel="PERU - WILLAX HD">
-    <title lang="es">Cobertura Especial</title>
+  <programme start="20210822130000 -0700" stop="20210822170000 -0700" channel="PER-Willax (TV)(720)">
+    <title lang="es">Príncipe Del Café</title>
   </programme>
-  <programme start="20210801180000 -0700" stop="20210801190000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822170000 -0700" stop="20210822180000 -0700" channel="PER-Willax (TV)(720)">
+    <title lang="es">Políticas</title>
+  </programme>
+  <programme start="20210822180000 -0700" stop="20210822190000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Edición Especial</title>
   </programme>
-  <programme start="20210801190000 -0700" stop="20210801200000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822190000 -0700" stop="20210822200000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Contracorriente</title>
   </programme>
-  <programme start="20210801200000 -0700" stop="20210801213000 -0700" channel="PERU - WILLAX HD">
+  <programme start="20210822200000 -0700" stop="20210822213000 -0700" channel="PER-Willax (TV)(720)">
     <title lang="es">Rey con Barba</title>
   </programme>
-  <programme start="20210729010000 -0700" stop="20210729020000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020 - Lo mejor</title>
+  <programme start="20210822010000 -0700" stop="20210822020000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mentes Criminales</title>
+    <title lang="xx">Criminal Minds</title>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.</desc>
+    <credits>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A. J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20210729020000 -0700" stop="20210729030000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020 - Lo mejor</title>
+  <programme start="20210822020000 -0700" stop="20210822030000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Almas Suspendidas</title>
+    <desc lang="es">Desde que era niña, Melinda Gordon puede comunicarse con los muertos, con este regalo ella debe ayudarlos a encontrar la manera de llevarlos a la luz.</desc>
+    <credits>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Aisha Tyler</actor>
+      <actor>David Conrad</actor>
+      <actor>Camryn Manheim</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Jamie Kennedy</actor>
+      <actor>Connor Gibbs</actor>
+      <producer>Jennifer Love Hewitt</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ghost_whisperer.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20210729030000 -0700" stop="20210729040000 -0700" channel="PERU - ATV HD">
+  <programme start="20210822030000 -0700" stop="20210822050000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Canto Andino</title>
   </programme>
-  <programme start="20210729040000 -0700" stop="20210729050000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822050000 -0700" stop="20210822051500 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Lab Rats Elite Force</title>
   </programme>
-  <programme start="20210729050000 -0700" stop="20210729060000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822051500 -0700" stop="20210822060000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mech-X4</title>
   </programme>
-  <programme start="20210729060000 -0700" stop="20210729070000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822060000 -0700" stop="20210822070000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">America's funniest home videos</title>
   </programme>
-  <programme start="20210729070000 -0700" stop="20210729080000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822070000 -0700" stop="20210822080000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Desafío Extremo</title>
   </programme>
-  <programme start="20210729080000 -0700" stop="20210729090000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822080000 -0700" stop="20210822090000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Agente Carter</title>
   </programme>
-  <programme start="20210729090000 -0700" stop="20210729100000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822090000 -0700" stop="20210822100000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Arrow</title>
+    <title lang="xx">Arrow</title>
+    <desc lang="es">Después de estar solo en una remota isla durante cinco años, el multimillonario Oliver Queen regresa a casa con una agenda misteriosa y nuevas habilidades.</desc>
+    <credits>
+      <actor>Stephen Amell</actor>
+      <actor>Katie Cassidy</actor>
+      <actor>Colin Donnell</actor>
+      <actor>David Ramsey</actor>
+      <actor>Willa Holland</actor>
+      <actor>Susanna Thompson</actor>
+      <actor>Paul Blackthorne</actor>
+      <actor>Emily Bett Rickards</actor>
+      <producer>J. P. Finn</producer>
+      <producer>Wendy Mericle</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/arrow.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20210729100000 -0700" stop="20210729110000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210822100000 -0700" stop="20210822110000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Supergirl</title>
+    <title lang="xx">Supergirl</title>
+    <desc lang="es">Kara después de haber escapado de Krypton, ha llegado a la tierra mucho después de su primo Superman ahora debe proteger a la tierra de los alienígenas.</desc>
+    <credits>
+      <actor>Melissa Benoist</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Jeremy Jordan</actor>
+      <actor>David Harewood</actor>
+      <actor>Calista Flockhart</actor>
+      <actor>Chris Wood</actor>
+      <actor>Floriana Lima</actor>
+      <producer>Michael Grassi</producer>
+      <producer>Ted Sullivan</producer>
+      <composer>Blake Neely</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/supergirl.jpg" />
   </programme>
-  <programme start="20210729110000 -0700" stop="20210729120000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Cañaveral de pasiones</title>
+  <programme start="20210822110000 -0700" stop="20210822120000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer, casos de la vida real</title>
   </programme>
-  <programme start="20210729120000 -0700" stop="20210729130000 -0700" channel="PERU - ATV HD">
+  <programme start="20210822120000 -0700" stop="20210822130000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">De Película</title>
+  </programme>
+  <programme start="20210822130000 -0700" stop="20210822140000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210822140000 -0700" stop="20210822150000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210822150000 -0700" stop="20210822160000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">María Mercedes</title>
+  </programme>
+  <programme start="20210822160000 -0700" stop="20210822170000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">María Mercedes</title>
+  </programme>
+  <programme start="20210822170000 -0700" stop="20210822183000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Tierra de osos</title>
+  </programme>
+  <programme start="20210822183000 -0700" stop="20210822200000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Nunca más</title>
+  </programme>
+  <programme start="20210822200000 -0700" stop="20210822220000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Día D</title>
+  </programme>
+  <programme start="20210822220000 -0700" stop="20210822230000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">De Película</title>
+  </programme>
+  <programme start="20210822230000 -0700" stop="20210823000000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Criminologia naval LA</title>
+  </programme>
+  <programme start="20210823010000 -0700" stop="20210823014500 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mentes Criminales</title>
+    <title lang="xx">Criminal Minds</title>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.</desc>
+    <credits>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Lola Glaudini</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A. J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Paget Brewster</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210823014500 -0700" stop="20210823024500 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Almas Suspendidas</title>
+    <desc lang="es">Desde que era niña, Melinda Gordon puede comunicarse con los muertos, con este regalo ella debe ayudarlos a encontrar la manera de llevarlos a la luz.</desc>
+    <credits>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Aisha Tyler</actor>
+      <actor>David Conrad</actor>
+      <actor>Camryn Manheim</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Christoph Sanders</actor>
+      <actor>Jamie Kennedy</actor>
+      <actor>Connor Gibbs</actor>
+      <producer>Jennifer Love Hewitt</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ghost_whisperer.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210823024500 -0700" stop="20210823040000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Canto Andino</title>
+  </programme>
+  <programme start="20210823040000 -0700" stop="20210823080000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">ATV Noticias edición matinal</title>
+  </programme>
+  <programme start="20210823080000 -0700" stop="20210823090000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">La tercera en discorda</title>
+  </programme>
+  <programme start="20210823090000 -0700" stop="20210823100000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210823100000 -0700" stop="20210823110000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20210823110000 -0700" stop="20210823120000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20210823120000 -0700" stop="20210823130000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Perdóname</title>
   </programme>
-  <programme start="20210729130000 -0700" stop="20210729140000 -0700" channel="PERU - ATV HD">
-    <title lang="es">El privilegio de amar</title>
+  <programme start="20210823130000 -0700" stop="20210823140000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Estrella de amor</title>
   </programme>
-  <programme start="20210729140000 -0700" stop="20210729150000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823140000 -0700" stop="20210823150000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Elif</title>
   </programme>
-  <programme start="20210729150000 -0700" stop="20210729160000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823150000 -0700" stop="20210823160000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Feriha</title>
   </programme>
-  <programme start="20210729160000 -0700" stop="20210729170000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Fatmagul</title>
   </programme>
-  <programme start="20210729170000 -0700" stop="20210729183000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823170000 -0700" stop="20210823183000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">ATV Noticias al estilo Juliana</title>
   </programme>
-  <programme start="20210729183000 -0700" stop="20210729193000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823183000 -0700" stop="20210823193000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">Andrea</title>
   </programme>
-  <programme start="20210729193000 -0700" stop="20210729210000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Magaly TV, la firme</title>
+  <programme start="20210823193000 -0700" stop="20210823210000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Magaly TV</title>
   </programme>
-  <programme start="20210729210000 -0700" stop="20210729214500 -0700" channel="PERU - ATV HD">
+  <programme start="20210823210000 -0700" stop="20210823214500 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">ATV Noticias</title>
   </programme>
-  <programme start="20210729214500 -0700" stop="20210729220000 -0700" channel="PERU - ATV HD">
+  <programme start="20210823214500 -0700" stop="20210823220000 -0700" channel="PER-ATV (TV)(720)">
     <title lang="es">El Deportivo</title>
   </programme>
-  <programme start="20210729220000 -0700" stop="20210729230000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
+  <programme start="20210823220000 -0700" stop="20210823230000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">CSI: NY</title>
+    <title lang="xx">CSI: NY</title>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <producer>Gary Sinise</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
   </programme>
-  <programme start="20210729230000 -0700" stop="20210730000000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020 - Lo mejor</title>
+  <programme start="20210823230000 -0700" stop="20210824000000 -0700" channel="PER-ATV (TV)(720)">
+    <title lang="es">Criminologia naval LA</title>
   </programme>
-  <programme start="20210730010000 -0700" stop="20210730020000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020 - Lo mejor</title>
-  </programme>
-  <programme start="20210730230000 -0700" stop="20210731000000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
-  </programme>
-  <programme start="20210731000000 -0700" stop="20210731010000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
-  </programme>
-  <programme start="20210731010000 -0700" stop="20210731020000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
-  </programme>
-  <programme start="20210731020000 -0700" stop="20210731040000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Canto Andino</title>
-  </programme>
-  <programme start="20210731040000 -0700" stop="20210731050000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731050000 -0700" stop="20210731060000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731060000 -0700" stop="20210731070000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731070000 -0700" stop="20210731080000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731080000 -0700" stop="20210731090000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731090000 -0700" stop="20210731100000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731100000 -0700" stop="20210731110000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731110000 -0700" stop="20210731120000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731120000 -0700" stop="20210731130000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731130000 -0700" stop="20210731140000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731140000 -0700" stop="20210731150000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731150000 -0700" stop="20210731160000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731160000 -0700" stop="20210731170000 -0700" channel="PERU - ATV HD">
-    <title lang="es">María la del barrio</title>
-  </programme>
-  <programme start="20210731170000 -0700" stop="20210731183000 -0700" channel="PERU - ATV HD">
-    <title lang="es">María la del barrio</title>
-  </programme>
-  <programme start="20210731183000 -0700" stop="20210731201500 -0700" channel="PERU - ATV HD">
-    <title lang="es">JB en ATV</title>
-  </programme>
-  <programme start="20210731201500 -0700" stop="20210731220000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
-  </programme>
-  <programme start="20210731220000 -0700" stop="20210731230000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210731230000 -0700" stop="20210801000000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210801000000 -0700" stop="20210801010000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210801010000 -0700" stop="20210801020000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokio 2020</title>
-  </programme>
-  <programme start="20210801050000 -0700" stop="20210801060000 -0700" channel="PERU - ATV HD">
-    <title lang="es">Olimpiadas Tokyo 2020</title>
-  </programme>
-  <programme start="20210801150000 -0700" stop="20210801160000 -0700" channel="PERU - ATV HD">
-    <title lang="es">María la del barrio</title>
-  </programme>
-  <programme start="20210729023000 -0700" stop="20210729030000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822023000 -0700" stop="20210822030000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">Los Barriga</title>
   </programme>
-  <programme start="20210729030000 -0700" stop="20210729123000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Perú festeja 200 años</title>
-  </programme>
-  <programme start="20210729123000 -0700" stop="20210729153000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20210729153000 -0700" stop="20210729163000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Madre</title>
-  </programme>
-  <programme start="20210729163000 -0700" stop="20210729173000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Dr. Milagro</title>
-  </programme>
-  <programme start="20210729173000 -0700" stop="20210729183000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Central</title>
-  </programme>
-  <programme start="20210729183000 -0700" stop="20210729200000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">La Voz</title>
-  </programme>
-  <programme start="20210729200000 -0700" stop="20210729210000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Hercai</title>
-  </programme>
-  <programme start="20210729210000 -0700" stop="20210729215000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Noche</title>
-  </programme>
-  <programme start="20210729215000 -0700" stop="20210729223000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822030000 -0700" stop="20210822040000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">Más vale tarde</title>
   </programme>
-  <programme start="20210729223000 -0700" stop="20210729233000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Guerra de Rosas</title>
-  </programme>
-  <programme start="20210729233000 -0700" stop="20210730023000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Espacio alquilado</title>
-  </programme>
-  <programme start="20210730030000 -0700" stop="20210730040000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Despierta 90 Matinal</title>
-  </programme>
-  <programme start="20210730040000 -0700" stop="20210730050000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Matinal Nacional</title>
-  </programme>
-  <programme start="20210730050000 -0700" stop="20210730070000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Matinal</title>
-  </programme>
-  <programme start="20210730070000 -0700" stop="20210730100000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Mujeres al mando</title>
-  </programme>
-  <programme start="20210730100000 -0700" stop="20210730123000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Mediodía</title>
-  </programme>
-  <programme start="20210730210000 -0700" stop="20210730220000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Noche de patas</title>
-  </programme>
-  <programme start="20210730220000 -0700" stop="20210730223000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Contigo seleccion</title>
-  </programme>
-  <programme start="20210730223000 -0700" stop="20210730230000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Espacio alquilado</title>
-  </programme>
-  <programme start="20210730230000 -0700" stop="20210730233000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Guerra de Rosas</title>
-  </programme>
-  <programme start="20210730233000 -0700" stop="20210731023000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Espacio alquilado</title>
-  </programme>
-  <programme start="20210731030000 -0700" stop="20210731040000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Más vale tarde</title>
-  </programme>
-  <programme start="20210731040000 -0700" stop="20210731073000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 sábados</title>
-  </programme>
-  <programme start="20210731073000 -0700" stop="20210731083000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Chapa tus tabas</title>
-  </programme>
-  <programme start="20210731083000 -0700" stop="20210731100000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Cine</title>
-  </programme>
-  <programme start="20210731100000 -0700" stop="20210731120000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">90 Mediodía</title>
-  </programme>
-  <programme start="20210731120000 -0700" stop="20210731140000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Cine del Sábado</title>
-  </programme>
-  <programme start="20210731140000 -0700" stop="20210731160000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Clasicos animados</title>
-  </programme>
-  <programme start="20210731160000 -0700" stop="20210731180000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Función Estelar</title>
-  </programme>
-  <programme start="20210731180000 -0700" stop="20210731200000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Cine</title>
-  </programme>
-  <programme start="20210731200000 -0700" stop="20210731221000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">La Voz</title>
-  </programme>
-  <programme start="20210731221000 -0700" stop="20210731224000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Los portales</title>
-  </programme>
-  <programme start="20210731224000 -0700" stop="20210731233000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Confesiones, historias de la vida misma</title>
-  </programme>
-  <programme start="20210801040000 -0700" stop="20210801063000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822040000 -0700" stop="20210822063000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">90 dominical</title>
   </programme>
-  <programme start="20210801063000 -0700" stop="20210801100000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822063000 -0700" stop="20210822100000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">Reporte Semanal</title>
   </programme>
-  <programme start="20210801100000 -0700" stop="20210801120000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822100000 -0700" stop="20210822120000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Mediodía</title>
   </programme>
-  <programme start="20210801120000 -0700" stop="20210801130000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
-    <title lang="es">Huella Digital</title>
-  </programme>
-  <programme start="20210801130000 -0700" stop="20210801150000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822120000 -0700" stop="20210822133000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">Cine Plus</title>
   </programme>
-  <programme start="20210801150000 -0700" stop="20210801170000 -0700" channel="PERU - LATINA TELEVISIÓN SD">
+  <programme start="20210822133000 -0700" stop="20210822150000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Cine explosivo</title>
+  </programme>
+  <programme start="20210822150000 -0700" stop="20210822170000 -0700" channel="PER-Latina (TV)(720)">
     <title lang="es">Cine Millonario</title>
   </programme>
-  <programme start="20210729023000 -0700" stop="20210729024500 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">El show de la risa</title>
+  <programme start="20210822170000 -0700" stop="20210822180000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Central</title>
   </programme>
-  <programme start="20210729024500 -0700" stop="20210729031500 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">La Banda del choclito</title>
+  <programme start="20210822180000 -0700" stop="20210822200000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Punto Final</title>
   </programme>
-  <programme start="20210729031500 -0700" stop="20210729043000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Buenos días, Perú - Primera edición</title>
+  <programme start="20210822200000 -0700" stop="20210822210000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Sin Medias Tintas</title>
   </programme>
-  <programme start="20210729043000 -0700" stop="20210729073000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Buenos días Perú</title>
+  <programme start="20210822210000 -0700" stop="20210822220000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Latina deportes</title>
   </programme>
-  <programme start="20210729073000 -0700" stop="20210729083000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Quality Products</title>
+  <programme start="20210822220000 -0700" stop="20210822233000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Reporte Semanal</title>
   </programme>
-  <programme start="20210729083000 -0700" stop="20210729103000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">D'mañana</title>
+  <programme start="20210823030000 -0700" stop="20210823040000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Despierta 90 Matinal</title>
   </programme>
-  <programme start="20210729103000 -0700" stop="20210729133000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">24 Horas</title>
+  <programme start="20210823040000 -0700" stop="20210823050000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Matinal Nacional</title>
   </programme>
-  <programme start="20210729133000 -0700" stop="20210729143000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Amor y prejuicio</title>
+  <programme start="20210823050000 -0700" stop="20210823070000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Matinal</title>
   </programme>
-  <programme start="20210729143000 -0700" stop="20210729153000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Una luz de esperanza</title>
+  <programme start="20210823070000 -0700" stop="20210823100000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Mujeres al mando</title>
   </programme>
-  <programme start="20210729153000 -0700" stop="20210729163000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">La mujer en el espejo</title>
+  <programme start="20210823100000 -0700" stop="20210823123000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Mediodía</title>
   </programme>
-  <programme start="20210729163000 -0700" stop="20210729170000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">24 horas - Último minuto</title>
+  <programme start="20210823123000 -0700" stop="20210823153000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210729170000 -0700" stop="20210729180000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Una luz de esperanza</title>
+  <programme start="20210823153000 -0700" stop="20210823163000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Omer Sueños Robados</title>
   </programme>
-  <programme start="20210729180000 -0700" stop="20210729190000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Los Mejores Documentales</title>
+  <programme start="20210823163000 -0700" stop="20210823173000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">El Doctor milagro</title>
   </programme>
-  <programme start="20210729190000 -0700" stop="20210729210000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">24 Horas</title>
+  <programme start="20210823173000 -0700" stop="20210823183000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Central</title>
   </programme>
-  <programme start="20210729210000 -0700" stop="20210729220000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Culpables</title>
+  <programme start="20210823183000 -0700" stop="20210823200000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">La Voz</title>
   </programme>
-  <programme start="20210729220000 -0700" stop="20210729221500 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">El show de la risa</title>
+  <programme start="20210823200000 -0700" stop="20210823210000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Hercai</title>
   </programme>
-  <programme start="20210729221500 -0700" stop="20210730023000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Nutrisa</title>
+  <programme start="20210823210000 -0700" stop="20210823220000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">90 Noche</title>
   </programme>
-  <programme start="20210730221500 -0700" stop="20210731023000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Nutrisa</title>
+  <programme start="20210823220000 -0700" stop="20210823233000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Guerra de Rosas</title>
   </programme>
-  <programme start="20210731221500 -0700" stop="20210801030000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Nutrisa</title>
+  <programme start="20210823233000 -0700" stop="20210824023000 -0700" channel="PER-Latina (TV)(720)">
+    <title lang="es">Espacio alquilado</title>
   </programme>
-  <programme start="20210801221500 -0700" stop="20210802030000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Nutrisa</title>
+  <programme start="20210822043000 -0700" stop="20210822044500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Panam y circo</title>
   </programme>
-  <programme start="20210802030000 -0700" stop="20210802033000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822044500 -0700" stop="20210822051500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Piñón en familia</title>
+  </programme>
+  <programme start="20210822051500 -0700" stop="20210822060000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El Garage TV</title>
+  </programme>
+  <programme start="20210822060000 -0700" stop="20210822080000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Promesa de vida</title>
+  </programme>
+  <programme start="20210822080000 -0700" stop="20210822093000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los Tres Chiflados</title>
+  </programme>
+  <programme start="20210822093000 -0700" stop="20210822120000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Almorzando con Mirtha Legrand</title>
+  </programme>
+  <programme start="20210822120000 -0700" stop="20210822143000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Marley y yo</title>
+  </programme>
+  <programme start="20210822143000 -0700" stop="20210822163000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Guerra de Papás 2</title>
+    <title lang="xx">Daddy's Home 2</title>
+    <desc lang="es">Dusty y Brad quieren hacer algo especial con sus hijos en las vacaciones, pero con la llegada de los abuelos Kurt y el Sr Whitaker todo termina en caos.</desc>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_de_papas_2.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210822163000 -0700" stop="20210822180000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">100 argentinos dicen</title>
+  </programme>
+  <programme start="20210822180000 -0700" stop="20210822190000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Periodismo Para Todos</title>
+  </programme>
+  <programme start="20210822190000 -0700" stop="20210822200000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Policias en Acción</title>
+  </programme>
+  <programme start="20210822200000 -0700" stop="20210822204500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Pasión por el Fútbol</title>
+  </programme>
+  <programme start="20210822204500 -0700" stop="20210822210000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210822210000 -0700" stop="20210823023000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210823023000 -0700" stop="20210823030000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Tiempo del tiempo En Vivo</title>
+  </programme>
+  <programme start="20210823030000 -0700" stop="20210823053000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Arriba argentinos En Vivo</title>
+  </programme>
+  <programme start="20210823053000 -0700" stop="20210823070000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Nosotros a la mañana</title>
+  </programme>
+  <programme start="20210823070000 -0700" stop="20210823090000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los ángeles de la mañana En Vivo</title>
+  </programme>
+  <programme start="20210823090000 -0700" stop="20210823103000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Noticiero Trece En Vivo</title>
+  </programme>
+  <programme start="20210823103000 -0700" stop="20210823121500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">100 argentinos dicen</title>
+  </programme>
+  <programme start="20210823121500 -0700" stop="20210823130000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El Club de las Divorciadas</title>
+  </programme>
+  <programme start="20210823130000 -0700" stop="20210823143000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20210823143000 -0700" stop="20210823160000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Telenoche En Vivo</title>
+  </programme>
+  <programme start="20210823170000 -0700" stop="20210823180000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los 8 Escalones</title>
+  </programme>
+  <programme start="20210823180000 -0700" stop="20210823193000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Showmatch</title>
+  </programme>
+  <programme start="20210823193000 -0700" stop="20210823201500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Síntesis</title>
+  </programme>
+  <programme start="20210823201500 -0700" stop="20210823204500 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210823204500 -0700" stop="20210824023000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210824204500 -0700" stop="20210825023000 -0700" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210822030000 -0700" stop="20210822033000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los tres cantineros</title>
   </programme>
-  <programme start="20210802033000 -0700" stop="20210802053000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822033000 -0700" stop="20210822053000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Encantos del Perú</title>
   </programme>
-  <programme start="20210802053000 -0700" stop="20210802060000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20210802060000 -0700" stop="20210802063000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Patrimonio mundial</title>
-  </programme>
-  <programme start="20210802063000 -0700" stop="20210802070000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">¡Escápate</title>
-  </programme>
-  <programme start="20210802070000 -0700" stop="20210802073000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Visión futuro</title>
-  </programme>
-  <programme start="20210802073000 -0700" stop="20210802080000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822053000 -0700" stop="20210822060000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los portales</title>
   </programme>
-  <programme start="20210802080000 -0700" stop="20210802083000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Petramas</title>
+  <programme start="20210822060000 -0700" stop="20210822080000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">El dominical de Panamericana</title>
   </programme>
-  <programme start="20210802083000 -0700" stop="20210802090000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Con sabor y saber</title>
+  <programme start="20210822080000 -0700" stop="20210822083000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Tu tesoro más grande, tu salud</title>
   </programme>
-  <programme start="20210802090000 -0700" stop="20210802093000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Con salud Perú</title>
+  <programme start="20210822083000 -0700" stop="20210822090000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Natura vital TV</title>
   </programme>
-  <programme start="20210802093000 -0700" stop="20210802100000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822090000 -0700" stop="20210822100000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los portales</title>
   </programme>
-  <programme start="20210802100000 -0700" stop="20210802110000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Natacha</title>
+  <programme start="20210822100000 -0700" stop="20210822110000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Vida y hogar</title>
   </programme>
-  <programme start="20210802110000 -0700" stop="20210802120000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Prófugas del Destino</title>
-    <desc lang="es">Lola, Mariana y Betty fueron encarceladas injustamente por motivos diferentes pero logran escapar luego de un motín y se hacen pasar por tres monjas.</desc>
-    <credits>
-      <actor>Gaby Vergara</actor>
-      <actor>Mayra Rojas</actor>
-      <actor>Andrea Martí</actor>
-      <producer>Rafael Urióstegui</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Telenovela</category>
-    <category lang="es">Novela</category>
-    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/profugas_del_destino.jpg" />
+  <programme start="20210822110000 -0700" stop="20210822113000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">En forma</title>
   </programme>
-  <programme start="20210802120000 -0700" stop="20210802145000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">1000 oficios</title>
+  <programme start="20210822113000 -0700" stop="20210822120000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Los portales</title>
   </programme>
-  <programme start="20210802145000 -0700" stop="20210802190000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">Porque hoy es Sábado con Andrés</title>
+  <programme start="20210822120000 -0700" stop="20210822143000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Yuru, la Princesa Amazónica</title>
   </programme>
-  <programme start="20210802190000 -0700" stop="20210802200000 -0700" channel="PERU - PANAMERICANA SD">
-    <title lang="es">24 horas - Edición de los sábados</title>
+  <programme start="20210822143000 -0700" stop="20210822163000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">El dominical de Panamericana</title>
   </programme>
-  <programme start="20210802200000 -0700" stop="20210802220000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822163000 -0700" stop="20210822175000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Teledeportes</title>
+  </programme>
+  <programme start="20210822175000 -0700" stop="20210822200000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Panorama</title>
+  </programme>
+  <programme start="20210822200000 -0700" stop="20210822220000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Al sexto día</title>
   </programme>
-  <programme start="20210802220000 -0700" stop="20210802230000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822220000 -0700" stop="20210822221500 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los ambulantes de la risa</title>
   </programme>
-  <programme start="20210802230000 -0700" stop="20210803030000 -0700" channel="PERU - PANAMERICANA SD">
+  <programme start="20210822221500 -0700" stop="20210823023000 -0700" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Nutrisa</title>
   </programme>
-  <programme start="20210729020000 -0700" stop="20210729030000 -0700" channel="PERU - AMERICA TV HD">
+  <programme start="20210823221500 -0700" stop="20210824023000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Nutrisa</title>
+  </programme>
+  <programme start="20210824023000 -0700" stop="20210824024500 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">El show de la risa</title>
+  </programme>
+  <programme start="20210824024500 -0700" stop="20210824031500 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">La Banda del choclito</title>
+  </programme>
+  <programme start="20210824031500 -0700" stop="20210824043000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Buenos días, Perú - Primera edición</title>
+  </programme>
+  <programme start="20210824043000 -0700" stop="20210824073000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Buenos días Perú - Segunda edición</title>
+  </programme>
+  <programme start="20210824073000 -0700" stop="20210824083000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Quality Products</title>
+  </programme>
+  <programme start="20210824083000 -0700" stop="20210824090000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Los portales</title>
+  </programme>
+  <programme start="20210824090000 -0700" stop="20210824103000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">D'mañana</title>
+  </programme>
+  <programme start="20210824103000 -0700" stop="20210824133000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210824133000 -0700" stop="20210824150000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Amor y prejuicio</title>
+  </programme>
+  <programme start="20210824150000 -0700" stop="20210824160000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Una luz de esperanza</title>
+  </programme>
+  <programme start="20210824160000 -0700" stop="20210824170000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">La mujer en el espejo</title>
+  </programme>
+  <programme start="20210824170000 -0700" stop="20210824173000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">24 horas - Último minuto</title>
+  </programme>
+  <programme start="20210824173000 -0700" stop="20210824183000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Los Mejores Documentales</title>
+  </programme>
+  <programme start="20210824183000 -0700" stop="20210824190000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Alto al crimen</title>
+  </programme>
+  <programme start="20210824190000 -0700" stop="20210824210000 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210824210000 -0700" stop="20210824221500 -0700" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210822003000 -0700" stop="20210822010000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20210822010000 -0700" stop="20210822013000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN</title>
+  </programme>
+  <programme start="20210822013000 -0700" stop="20210822020000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20210822020000 -0700" stop="20210822023000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Clix</title>
+  </programme>
+  <programme start="20210822023000 -0700" stop="20210822030000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20210822030000 -0700" stop="20210822040000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20210822040000 -0700" stop="20210822050000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20210822050000 -0700" stop="20210822053000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Clix</title>
+  </programme>
+  <programme start="20210822053000 -0700" stop="20210822060000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20210822060000 -0700" stop="20210822070000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Choque de Opiniones</title>
+  </programme>
+  <programme start="20210822070000 -0700" stop="20210822080000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Cnn dinero</title>
+  </programme>
+  <programme start="20210822080000 -0700" stop="20210822090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Conecta2</title>
+  </programme>
+  <programme start="20210822090000 -0700" stop="20210822093000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20210822093000 -0700" stop="20210822100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20210822100000 -0700" stop="20210822110000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Choque de Opiniones</title>
+  </programme>
+  <programme start="20210822110000 -0700" stop="20210822113000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20210822113000 -0700" stop="20210822120000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20210822120000 -0700" stop="20210822123000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20210822123000 -0700" stop="20210822130000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Clix</title>
+  </programme>
+  <programme start="20210822130000 -0700" stop="20210822140000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20210822140000 -0700" stop="20210822150000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Cnn dinero</title>
+  </programme>
+  <programme start="20210822150000 -0700" stop="20210822160000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20210822160000 -0700" stop="20210822170000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Documentales CNN or Docufilms</title>
+  </programme>
+  <programme start="20210822170000 -0700" stop="20210822180000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20210822180000 -0700" stop="20210822190000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20210822190000 -0700" stop="20210822200000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20210822200000 -0700" stop="20210822203000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN En Vivo</title>
+  </programme>
+  <programme start="20210822203000 -0700" stop="20210822210000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Especial deportes</title>
+  </programme>
+  <programme start="20210822210000 -0700" stop="20210822220000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20210822220000 -0700" stop="20210822230000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20210822230000 -0700" stop="20210822233000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN</title>
+  </programme>
+  <programme start="20210822233000 -0700" stop="20210823000000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20210823000000 -0700" stop="20210823010000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Conecta2</title>
+  </programme>
+  <programme start="20210823010000 -0700" stop="20210823013000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Nuestro Mundo</title>
+  </programme>
+  <programme start="20210823013000 -0700" stop="20210823020000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20210823020000 -0700" stop="20210823030000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+  <programme start="20210823030000 -0700" stop="20210823033000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Aristegui Repetición</title>
+  </programme>
+  <programme start="20210823033000 -0700" stop="20210823040000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN</title>
+  </programme>
+  <programme start="20210823040000 -0700" stop="20210823050000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">CNN Primera Mañana</title>
+  </programme>
+  <programme start="20210823050000 -0700" stop="20210823070000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Café CNN En Vivo</title>
+  </programme>
+  <programme start="20210823070000 -0700" stop="20210823080000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Camilo Repetición</title>
+  </programme>
+  <programme start="20210823080000 -0700" stop="20210823083000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Aristegui Repetición</title>
+  </programme>
+  <programme start="20210823083000 -0700" stop="20210823090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN</title>
+  </programme>
+  <programme start="20210823090000 -0700" stop="20210823100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Cnn dinero</title>
+  </programme>
+  <programme start="20210823100000 -0700" stop="20210823120000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Redacción con Nacho Girón</title>
+  </programme>
+  <programme start="20210823120000 -0700" stop="20210823140000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Redacción con Gabriela Frias</title>
+  </programme>
+  <programme start="20210823140000 -0700" stop="20210823150000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Directo USA con Juan Lopez</title>
+  </programme>
+  <programme start="20210823150000 -0700" stop="20210823160000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Perspectivas desde Mexico</title>
+  </programme>
+  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Perspectivas desde B.A</title>
+  </programme>
+  <programme start="20210823170000 -0700" stop="20210823180000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Panorama Mundial</title>
+  </programme>
+  <programme start="20210823180000 -0700" stop="20210823190000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Camilo En Vivo</title>
+  </programme>
+  <programme start="20210823190000 -0700" stop="20210823200000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Conclusiones En Vivo</title>
+  </programme>
+  <programme start="20210823200000 -0700" stop="20210823203000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Aristegui</title>
+  </programme>
+  <programme start="20210823203000 -0700" stop="20210823210000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20210823210000 -0700" stop="20210823220000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mirador Mundial</title>
+  </programme>
+  <programme start="20210823220000 -0700" stop="20210823230000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20210823230000 -0700" stop="20210823233000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Deportes CNN</title>
+  </programme>
+  <programme start="20210823233000 -0700" stop="20210824000000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Triunfadores del Deporte</title>
+  </programme>
+  <programme start="20210824013000 -0700" stop="20210824020000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mercado México</title>
+  </programme>
+  <programme start="20210824083000 -0700" stop="20210824090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+  <programme start="20210824090000 -0700" stop="20210824100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Conecta2</title>
+  </programme>
+  <programme start="20210825083000 -0700" stop="20210825090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Vive la salud</title>
+  </programme>
+  <programme start="20210825090000 -0700" stop="20210825100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+  <programme start="20210822010000 -0700" stop="20210822030000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210729030000 -0700" stop="20210729050000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América noticias primera edición</title>
-  </programme>
-  <programme start="20210729050000 -0700" stop="20210729073000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729073000 -0700" stop="20210729090000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Machu Picchu, la joya del emperador</title>
-  </programme>
-  <programme start="20210729090000 -0700" stop="20210729100000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210729100000 -0700" stop="20210729110000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729110000 -0700" stop="20210729124000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Grau, caballero de los mares</title>
-  </programme>
-  <programme start="20210729124000 -0700" stop="20210729140000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Al fondo hay sitio</title>
-  </programme>
-  <programme start="20210729140000 -0700" stop="20210729150000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210729150000 -0700" stop="20210729170000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Los milagros de la rosa</title>
-  </programme>
-  <programme start="20210729170000 -0700" stop="20210729183000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Esto es guerra</title>
-  </programme>
-  <programme start="20210729183000 -0700" stop="20210729193000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">De Vuelta Al Barrio</title>
-  </programme>
-  <programme start="20210729193000 -0700" stop="20210729203000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Luz de luna</title>
-  </programme>
-  <programme start="20210729203000 -0700" stop="20210729213000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729213000 -0700" stop="20210729223000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">La banda del chino</title>
-  </programme>
-  <programme start="20210729223000 -0700" stop="20210729233000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210729233000 -0700" stop="20210730003000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210730233000 -0700" stop="20210731003000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210731003000 -0700" stop="20210731010000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América espectáculos</title>
-  </programme>
-  <programme start="20210731010000 -0700" stop="20210731020000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Cocina Nostra</title>
-  </programme>
-  <programme start="20210731073000 -0700" stop="20210731090000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Hoy</title>
-  </programme>
-  <programme start="20210731110000 -0700" stop="20210731130000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">En boca de todos</title>
-  </programme>
-  <programme start="20210731130000 -0700" stop="20210731140000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Al fondo hay sitio</title>
-  </programme>
-  <programme start="20210801010000 -0700" stop="20210801020000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210801020000 -0700" stop="20210801040000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">En boca de todos</title>
-  </programme>
-  <programme start="20210801040000 -0700" stop="20210801050000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América noticias matutino</title>
-  </programme>
-  <programme start="20210801050000 -0700" stop="20210801070000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210801070000 -0700" stop="20210801090000 -0700" channel="PERU - AMERICA TV HD">
+  <programme start="20210822030000 -0700" stop="20210822040000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">Estás en todas</title>
   </programme>
-  <programme start="20210801090000 -0700" stop="20210801100000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Cinescape</title>
-  </programme>
-  <programme start="20210801100000 -0700" stop="20210801110000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">El chapulin colorado animado</title>
-  </programme>
-  <programme start="20210801110000 -0700" stop="20210801120000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Emprendedor, ponte las pilas</title>
-  </programme>
-  <programme start="20210801120000 -0700" stop="20210801134000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Animales al ataque</title>
-  </programme>
-  <programme start="20210801134000 -0700" stop="20210801153000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">El Heredero del Crimen</title>
-  </programme>
-  <programme start="20210801153000 -0700" stop="20210801165000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Los milagros de la rosa</title>
-  </programme>
-  <programme start="20210801165000 -0700" stop="20210801190000 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">El reventonazo de la Chola</title>
-  </programme>
-  <programme start="20210801190000 -0700" stop="20210801214500 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">El artista del año - Reinas del show</title>
-  </programme>
-  <programme start="20210801214500 -0700" stop="20210801221500 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Bicentenario</title>
-  </programme>
-  <programme start="20210801221500 -0700" stop="20210801234500 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">Henry el terrible</title>
-  </programme>
-  <programme start="20210801234500 -0700" stop="20210802011500 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">La pequeña brujita</title>
-  </programme>
-  <programme start="20210802234500 -0700" stop="20210803011500 -0700" channel="PERU - AMERICA TV HD">
-    <title lang="es">La pequeña brujita</title>
-  </programme>
-  <programme start="20210729020000 -0700" stop="20210729030000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210822040000 -0700" stop="20210822050000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210729030000 -0700" stop="20210729050000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210822050000 -0700" stop="20210822063000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210822063000 -0700" stop="20210822090000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Al dia domingo</title>
+  </programme>
+  <programme start="20210822090000 -0700" stop="20210822100000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">TEC</title>
+  </programme>
+  <programme start="20210822100000 -0700" stop="20210822110000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Cachorros al rescate</title>
+  </programme>
+  <programme start="20210822110000 -0700" stop="20210822120000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Emprendedor, ponte las pilas</title>
+  </programme>
+  <programme start="20210822120000 -0700" stop="20210822123000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20210822123000 -0700" stop="20210822130000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">America TV</title>
+  </programme>
+  <programme start="20210822130000 -0700" stop="20210822150000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Volver al Futuro 3</title>
+    <title lang="xx">Back to the Future Part III</title>
+    <desc lang="es">Marty McFly atrapado en 1955, debe regresar al año de 1885 antes que el doctor Emmett Brown sea asesinado por el forajido Buford "Perro Rabioso" Tannen.</desc>
+    <credits>
+      <actor>Michael J. Fox</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Thomas F. Wilson</actor>
+      <actor>Lea Thompson</actor>
+      <producer>Neil Canton</producer>
+      <producer>Bob Gale</producer>
+      <composer>Alan Silvestri</composer>
+    </credits>
+    <date>1990</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/volver_al_futuro_iii.jpg" />
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20210822150000 -0700" stop="20210822170000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Los milagros de la rosa</title>
+  </programme>
+  <programme start="20210822170000 -0700" stop="20210822180000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Mi mamá cocina mejor que la tuya</title>
+  </programme>
+  <programme start="20210822180000 -0700" stop="20210822200000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Cuarto Poder</title>
+  </programme>
+  <programme start="20210822200000 -0700" stop="20210822205000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fútbol en América</title>
+  </programme>
+  <programme start="20210822205000 -0700" stop="20210822205500 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">La Tinka</title>
+  </programme>
+  <programme start="20210822205500 -0700" stop="20210822220000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fútbol en América</title>
+  </programme>
+  <programme start="20210822220000 -0700" stop="20210822233000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Free Fire League</title>
+  </programme>
+  <programme start="20210822233000 -0700" stop="20210823013000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">La espada del dragón</title>
+  </programme>
+  <programme start="20210823233000 -0700" stop="20210824013000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">La espada del dragón</title>
+  </programme>
+  <programme start="20210824013000 -0700" stop="20210824030000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Cuarto Poder</title>
+  </programme>
+  <programme start="20210824030000 -0700" stop="20210824050000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América noticias - Primera edición - Local</title>
+  </programme>
+  <programme start="20210824050000 -0700" stop="20210824073000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América noticias primera edición</title>
   </programme>
-  <programme start="20210729050000 -0700" stop="20210729073000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729073000 -0700" stop="20210729090000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Machu Picchu, la joya del emperador</title>
-  </programme>
-  <programme start="20210729090000 -0700" stop="20210729100000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210729100000 -0700" stop="20210729110000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729110000 -0700" stop="20210729124000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Grau, caballero de los mares</title>
-  </programme>
-  <programme start="20210729124000 -0700" stop="20210729140000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Al fondo hay sitio</title>
-  </programme>
-  <programme start="20210729140000 -0700" stop="20210729150000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210729150000 -0700" stop="20210729170000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Los milagros de la rosa</title>
-  </programme>
-  <programme start="20210729170000 -0700" stop="20210729183000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Esto es guerra</title>
-  </programme>
-  <programme start="20210729183000 -0700" stop="20210729193000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">De Vuelta Al Barrio</title>
-  </programme>
-  <programme start="20210729193000 -0700" stop="20210729203000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Luz de luna</title>
-  </programme>
-  <programme start="20210729203000 -0700" stop="20210729213000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729213000 -0700" stop="20210729223000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">La banda del chino</title>
-  </programme>
-  <programme start="20210729223000 -0700" stop="20210729233000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210729233000 -0700" stop="20210730003000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210730233000 -0700" stop="20210731003000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210731003000 -0700" stop="20210731010000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">América espectáculos</title>
-  </programme>
-  <programme start="20210731010000 -0700" stop="20210731020000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Cocina Nostra</title>
-  </programme>
-  <programme start="20210731073000 -0700" stop="20210731090000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210824073000 -0700" stop="20210824090000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América Hoy</title>
   </programme>
-  <programme start="20210731110000 -0700" stop="20210731130000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210824090000 -0700" stop="20210824100000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210824100000 -0700" stop="20210824110000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210824110000 -0700" stop="20210824130000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210731130000 -0700" stop="20210731140000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210824130000 -0700" stop="20210824140000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">Al fondo hay sitio</title>
   </programme>
-  <programme start="20210801010000 -0700" stop="20210801020000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210824140000 -0700" stop="20210824150000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210824170000 -0700" stop="20210824183000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Esto es guerra</title>
+  </programme>
+  <programme start="20210824183000 -0700" stop="20210824193000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20210824193000 -0700" stop="20210824203000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Luz de luna</title>
+  </programme>
+  <programme start="20210824203000 -0700" stop="20210824213000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210801020000 -0700" stop="20210801040000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210824213000 -0700" stop="20210824223000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">La banda del chino</title>
+  </programme>
+  <programme start="20210824223000 -0700" stop="20210824233000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210824233000 -0700" stop="20210825003000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210825233000 -0700" stop="20210826003000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210826003000 -0700" stop="20210826010000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América espectáculos</title>
+  </programme>
+  <programme start="20210826010000 -0700" stop="20210826030000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210801040000 -0700" stop="20210801050000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">América noticias matutino</title>
+  <programme start="20210826030000 -0700" stop="20210826050000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América noticias - Primera edición - Local</title>
   </programme>
-  <programme start="20210801050000 -0700" stop="20210801070000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210826050000 -0700" stop="20210826073000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América noticias primera edición</title>
+  </programme>
+  <programme start="20210826073000 -0700" stop="20210826090000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América Hoy</title>
+  </programme>
+  <programme start="20210826090000 -0700" stop="20210826100000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210826100000 -0700" stop="20210826110000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210801070000 -0700" stop="20210801090000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Estás en todas</title>
+  <programme start="20210826110000 -0700" stop="20210826130000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210801090000 -0700" stop="20210801100000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Cinescape</title>
+  <programme start="20210826130000 -0700" stop="20210826140000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Al fondo hay sitio</title>
   </programme>
-  <programme start="20210801100000 -0700" stop="20210801110000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">El chapulin colorado animado</title>
+  <programme start="20210826140000 -0700" stop="20210826150000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Quererlo todo</title>
   </programme>
-  <programme start="20210801110000 -0700" stop="20210801120000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Emprendedor, ponte las pilas</title>
-  </programme>
-  <programme start="20210801120000 -0700" stop="20210801134000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Animales al ataque</title>
-  </programme>
-  <programme start="20210801134000 -0700" stop="20210801153000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">El Heredero del Crimen</title>
-  </programme>
-  <programme start="20210801153000 -0700" stop="20210801165000 -0700" channel="PERU - AMERICA TV SD">
+  <programme start="20210826150000 -0700" stop="20210826170000 -0700" channel="PER-America TV (TV)(720)">
     <title lang="es">Los milagros de la rosa</title>
   </programme>
-  <programme start="20210801165000 -0700" stop="20210801190000 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">El reventonazo de la Chola</title>
+  <programme start="20210826170000 -0700" stop="20210826183000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Esto es guerra</title>
   </programme>
-  <programme start="20210801190000 -0700" stop="20210801214500 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">El artista del año - Reinas del show</title>
+  <programme start="20210826183000 -0700" stop="20210826193000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">De Vuelta Al Barrio</title>
   </programme>
-  <programme start="20210801214500 -0700" stop="20210801221500 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Bicentenario</title>
+  <programme start="20210826193000 -0700" stop="20210826203000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Luz de luna</title>
   </programme>
-  <programme start="20210801221500 -0700" stop="20210801234500 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">Henry el terrible</title>
+  <programme start="20210826203000 -0700" stop="20210826213000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210801234500 -0700" stop="20210802011500 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">La pequeña brujita</title>
+  <programme start="20210826213000 -0700" stop="20210826223000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">La banda del chino</title>
   </programme>
-  <programme start="20210802234500 -0700" stop="20210803011500 -0700" channel="PERU - AMERICA TV SD">
-    <title lang="es">La pequeña brujita</title>
+  <programme start="20210826223000 -0700" stop="20210826233000 -0700" channel="PER-America TV (TV)(720)">
+    <title lang="es">Quererlo todo</title>
   </programme>
 </tv>
