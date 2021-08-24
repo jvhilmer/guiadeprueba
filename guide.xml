@@ -17,7 +17,11 @@
   </channel>
   <channel id="ARG-El Trece (O)(720)">
     <display-name lang="es">ARG-El Trece (O)(720)</display-name>
-    <url>http://www.gatotv.com</url>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG-Telefe (TV)(1080)">
+    <display-name lang="es">ARG-Telefe (TV)(1080)</display-name>
+    <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="PER-Panamericana (TV)(720)">
     <display-name lang="es">PER-Panamericana (TV)(720)</display-name>
@@ -461,95 +465,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20210824190000 +0000" stop="20210824200000 +0000" channel="PER-ATV (TV)(720)">
-    <title lang="es">PerdÃ³name</title>
-    <desc lang="es">Feride perdiÃ³ a sus padres a muy temprana edad, por lo que es recibida en la familia Kozan, donde se enamora de Cuneyt, uno de los hijo de Osman, lÃ­der de la familia. Mientras tanto, Kemal se enamora de Bahar, a pesar de ser de distinta clase sociales.</desc>
-    <credits>
-      <actor>Gaye Turgut</actor>
-      <actor>Nusret Senay</actor>
-      <actor>Seyma Korkmaz</actor>
-      <actor>Murat Danaci</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/65/8655671_FAD153B476925E6D.jpg" />
-    <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20210824200000 +0000" stop="20210824210000 +0000" channel="PER-ATV (TV)(720)">
-    <title lang="es">Estrella de amor</title>
-    <desc lang="es">Kusey y Yildiz estaban enamorados, sin embargo, Ã©l se deja llevar por la vida de la gran ciudad de Estambul y termina casÃ¡ndose con otra mujer. 20 aÃ±os despuÃ©s, la vida lo obliga a regresar a su ciudad natal, donde Yildiz lo espera con el resentimiento intacto. Su amada esposa lo engaÃ±Ã³, se llevÃ³ todo el dinero y lo dejÃ³ en la calle a Ã©l y a sus tres hijas.</desc>
-    <credits>
-      <director>Ersoy GÃ¼ler</director>
-      <actor>Toygan Avanoglu</actor>
-      <actor>Aslihan GÃ¼ner</actor>
-      <actor>Aslihan Kapansahin</actor>
-      <actor>Berfin Nilsu Aktas</actor>
-      <actor>Gizem GÃ¼nes</actor>
-      <actor>Ismail Demirci</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9215097_44A3EBF8C969DEAC.jpg" />
-    <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20210824210000 +0000" stop="20210824213000 +0000" channel="PER-ATV (TV)(720)">
-    <title lang="es">Elif</title>
-    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
-    <credits>
-      <director>Fulya Yavuzoglu</director>
-      <actor>Isabella Damla GÃ¼venilir</actor>
-      <actor>Selin Sezgin</actor>
-      <actor>Altug Seckiner</actor>
-      <actor>Emre Kivilcim</actor>
-      <actor>Tevfik Yapici</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Novela</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
-    <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20210824213000 +0000" stop="20210824220000 +0000" channel="PER-ATV (TV)(720)">
-    <title lang="es">Elif</title>
-    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
-    <credits>
-      <director>Fulya Yavuzoglu</director>
-      <actor>Isabella Damla GÃ¼venilir</actor>
-      <actor>Selin Sezgin</actor>
-      <actor>Altug Seckiner</actor>
-      <actor>Emre Kivilcim</actor>
-      <actor>Tevfik Yapici</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <category lang="es">Novela</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
-    <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20210824220000 +0000" stop="20210824230000 +0000" channel="PER-ATV (TV)(720)">
-    <title lang="es">El secreto de Feriha</title>
-    <desc lang="es">Feriha Yilmaz es la hija de un portero en un exclusivo lugar. Ella se siente avergonzada de su situaciÃ³n y al ingresar a una exclusiva universidad, finge ser una chica de familia rica, pero su red de mentiras la irÃ¡n enredando de a pocos.</desc>
-    <credits>
-      <actor>Ãagatay Ulusoy</actor>
-      <actor>Hazal Kaya</actor>
-      <actor>Metin Ãekmez</actor>
-      <actor>Deniz Ugur</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8702373_66FDC39023870EA8.jpg" />
-    <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20210824230000 +0000" stop="20210825000000 +0000" channel="PER-ATV (TV)(720)">
     <title lang="es">Â¿QuÃ© culpa tiene Fatmagul?</title>
     <desc lang="es">Kerim y los primos Yasaran son llevados a Izmir a testificar. El padre de Meltem pide una compensaciÃ³n a los Yasaran por los daÃ±os que le han causado a su hija. Asu estÃ¡ decepcionada de MustafÃ¡.</desc>
@@ -660,7 +575,7 @@
       <actor>Charles Barber</actor>
     </credits>
     <category lang="es">Crimen</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/00/9003362_EB19ECE853DC295B.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/00/9007478_004EE5C5B1B9C4D4.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="MJColombia">
@@ -1673,53 +1588,684 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20210824023000 -0500" stop="20210824030000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Tiempo del tiempo En Vivo</title>
+  <programme start="20210824233000 -0300" stop="20210825001500 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <date>1992</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4913392.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
-  <programme start="20210824030000 -0500" stop="20210824053000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Arriba argentinos En Vivo</title>
-  </programme>
-  <programme start="20210824053000 -0500" stop="20210824070000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Nosotros a la mañana</title>
-  </programme>
-  <programme start="20210824070000 -0500" stop="20210824090000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Los ángeles de la mañana En Vivo</title>
-  </programme>
-  <programme start="20210824090000 -0500" stop="20210824103000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Noticiero Trece En Vivo</title>
-  </programme>
-  <programme start="20210824103000 -0500" stop="20210824121500 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">100 argentinos dicen</title>
-  </programme>
-  <programme start="20210824121500 -0500" stop="20210824130000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">El Club de las Divorciadas</title>
-  </programme>
-  <programme start="20210824130000 -0500" stop="20210824143000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">El gran premio de la cocina</title>
-  </programme>
-  <programme start="20210824143000 -0500" stop="20210824160000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Bienvenidos a bordo</title>
-  </programme>
-  <programme start="20210824160000 -0500" stop="20210824170000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Telenoche En Vivo</title>
-  </programme>
-  <programme start="20210824170000 -0500" stop="20210824180000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Los 8 Escalones</title>
-  </programme>
-  <programme start="20210824180000 -0500" stop="20210824193000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Showmatch</title>
-  </programme>
-  <programme start="20210824193000 -0500" stop="20210824201500 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Síntesis</title>
-  </programme>
-  <programme start="20210824201500 -0500" stop="20210824204500 -0500" channel="ARG-El Trece (O)(720)">
+  <programme start="20210825001500 -0300" stop="20210825003000 -0300" channel="ARG-El Trece (O)(720)">
     <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <date>2017</date>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4631431.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
   </programme>
-  <programme start="20210824204500 -0500" stop="20210825023000 -0500" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
+  <programme start="20210825003000 -0300" stop="20210825063000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2084650.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
-  <programme start="20210825143000 -0500" stop="20210825160000 -0500" channel="ARG-El Trece (O)(720)">
+  <programme start="20210825063000 -0300" stop="20210825070000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Tiempo del tiempo</title>
+    <desc lang="es">Este mininoticiero informa el estado del tiempo y de las condiciones presentes reportadas en distintos puntos de Capital Federal y Gran Buenos Aires, al mismo tiempo que en el resto de las ciudades del interior de Argentina.</desc>
+    <date>2007</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2753637.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825070000 -0300" stop="20210825093000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Arriba argentinos</title>
+    <desc lang="es">Bien temprano, un programa con toda la información para encarar la jornada bien informado.</desc>
+    <date>2006</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3887953.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825093000 -0300" stop="20210825110000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Nosotros a la mañana</title>
+    <desc lang="es">Con un alto perfil periodístico, se abordan temas de actualidad, economía, política, interés general y espectáculos, buscando llevar a la mesa de los argentinos la información más completa de manera distendida y descontracturada.</desc>
+    <date>2014</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15314779.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825110000 -0300" stop="20210825130000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los ángeles de la mañana</title>
+    <desc lang="es">La información más completa del espectáculo y el abordaje de los temas preponderantes de la actualidad nacional, que marcan la agenda del día. Con entrevistas, móviles, especiales, entretenimiento y destacadas figuras invitadas.</desc>
+    <date>2016</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6771734.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825130000 -0300" stop="20210825143000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Noticiero Trece</title>
+    <title lang="en">El noticiero del trece</title>
+    <desc lang="es">Toda la información en vivo y al instante. Además de seguir los hechos más relevantes, presenta secciones para disfrutar de un segmento con todos los temas que realmente interesan.</desc>
+    <date>2004</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12474148.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825143000 -0300" stop="20210825160000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">100 argentinos dicen</title>
+    <desc lang="es">Un programa en el que para ganar hay que acertar lo que dice la mayoría. Dos familias deben responder una serie de preguntas sobre diversos temas e intentar coincidir con lo que previamente respondió un panel de cien argentinos...</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11878291.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825160000 -0300" stop="20210825170000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El club de las divorciadas</title>
+    <desc lang="es">En el programa se reciben valiosos testimonios para darle forma a este talk show en el que las mujeres cuentan sus historias de vida, antes, durante y después de sus crisis de separación.</desc>
+    <date>2021</date>
+    <category lang="es">Talk Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14900624.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825170000 -0300" stop="20210825183000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El gran premio de la cocina</title>
+    <desc lang="es">Todas las tardes, cocineros amateurs se enfrentarán a distintas pruebas en las que tendrán que demostrar no solo su capacidad de inventiva y el dominio de la técnica, sino también concentración, seguridad y serenidad.</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14713111.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210825183000 -0300" stop="20210825200000 -0300" channel="ARG-El Trece (O)(720)">
     <title lang="es">Bienvenidos a bordo</title>
+    <desc lang="es">Programa con juegos y preguntas que tendrá como premio viajes a distintos lugares del mundo: a mayor complejidad de las preguntas, el destino será más atractivo y lejano. Quien conteste equivocadamente, caerá al "combustible" del avión.</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10908931.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210825200000 -0300" stop="20210825210000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Un espacio informativo para mostrarte los principales acontecimientos de Argentina y el mundo.</desc>
+    <date>2021</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13237781.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825210000 -0300" stop="20210825220000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los 8 escalones del millón</title>
+    <desc lang="es">El programa de preguntas y respuestas que ya es un clásico de la televisión, entregará por primera vez un millón de pesos todas las noches. Todas las noches habrá un jurado invitado sorpresa.</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15454304.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210825220000 -0300" stop="20210825233000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Showmatch, la academia</title>
+    <desc lang="es">Los participantes de la Academia deberán aprender y mostrar múltiples disciplinas artísticas; y además vuelve el humor de los orígenes, con los históricos sumados a una camada de nuevos humoristas.</desc>
+    <date>2021</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14551710.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210825233000 -0300" stop="20210826001500 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <date>1992</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4913392.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826233000 -0300" stop="20210827001500 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <date>1992</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4913392.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827001500 -0300" stop="20210827003000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <date>2017</date>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4631431.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827003000 -0300" stop="20210827063000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2084650.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210827063000 -0300" stop="20210827070000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Tiempo del tiempo</title>
+    <desc lang="es">Este mininoticiero informa el estado del tiempo y de las condiciones presentes reportadas en distintos puntos de Capital Federal y Gran Buenos Aires, al mismo tiempo que en el resto de las ciudades del interior de Argentina.</desc>
+    <date>2007</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2753637.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827070000 -0300" stop="20210827093000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Arriba argentinos</title>
+    <desc lang="es">Bien temprano, un programa con toda la información para encarar la jornada bien informado.</desc>
+    <date>2006</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3887953.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827093000 -0300" stop="20210827110000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Nosotros a la mañana</title>
+    <desc lang="es">Con un alto perfil periodístico, se abordan temas de actualidad, economía, política, interés general y espectáculos, buscando llevar a la mesa de los argentinos la información más completa de manera distendida y descontracturada.</desc>
+    <date>2014</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15314779.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827110000 -0300" stop="20210827130000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los ángeles de la mañana</title>
+    <desc lang="es">La información más completa del espectáculo y el abordaje de los temas preponderantes de la actualidad nacional, que marcan la agenda del día. Con entrevistas, móviles, especiales, entretenimiento y destacadas figuras invitadas.</desc>
+    <date>2016</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6771734.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827130000 -0300" stop="20210827143000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Noticiero Trece</title>
+    <title lang="en">El noticiero del trece</title>
+    <desc lang="es">Toda la información en vivo y al instante. Además de seguir los hechos más relevantes, presenta secciones para disfrutar de un segmento con todos los temas que realmente interesan.</desc>
+    <date>2004</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12474148.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827143000 -0300" stop="20210827160000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">100 argentinos dicen</title>
+    <desc lang="es">Un programa en el que para ganar hay que acertar lo que dice la mayoría. Dos familias deben responder una serie de preguntas sobre diversos temas e intentar coincidir con lo que previamente respondió un panel de cien argentinos...</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11878291.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827160000 -0300" stop="20210827170000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El club de las divorciadas</title>
+    <desc lang="es">En el programa se reciben valiosos testimonios para darle forma a este talk show en el que las mujeres cuentan sus historias de vida, antes, durante y después de sus crisis de separación.</desc>
+    <date>2021</date>
+    <category lang="es">Talk Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14900624.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827170000 -0300" stop="20210827183000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El gran premio de la cocina</title>
+    <desc lang="es">Todas las tardes, cocineros amateurs se enfrentarán a distintas pruebas en las que tendrán que demostrar no solo su capacidad de inventiva y el dominio de la técnica, sino también concentración, seguridad y serenidad.</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14713111.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210827183000 -0300" stop="20210827200000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Bienvenidos a bordo</title>
+    <desc lang="es">Programa con juegos y preguntas que tendrá como premio viajes a distintos lugares del mundo: a mayor complejidad de las preguntas, el destino será más atractivo y lejano. Quien conteste equivocadamente, caerá al "combustible" del avión.</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10908931.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210827200000 -0300" stop="20210827210000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Un espacio informativo para mostrarte los principales acontecimientos de Argentina y el mundo.</desc>
+    <date>2021</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13237781.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827210000 -0300" stop="20210827220000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Los 8 escalones del millón</title>
+    <desc lang="es">El programa de preguntas y respuestas que ya es un clásico de la televisión, entregará por primera vez un millón de pesos todas las noches. Todas las noches habrá un jurado invitado sorpresa.</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15454304.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210827220000 -0300" stop="20210827233000 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">Showmatch, la academia</title>
+    <desc lang="es">Los participantes de la Academia deberán aprender y mostrar múltiples disciplinas artísticas; y además vuelve el humor de los orígenes, con los históricos sumados a una camada de nuevos humoristas.</desc>
+    <date>2021</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14551710.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210827233000 -0300" stop="20210828001500 -0300" channel="ARG-El Trece (O)(720)">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <date>1992</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4913392.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210824234500 -0300" stop="20210825003000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Icerde</title>
+    <desc lang="es">La historia se centra en Sarp, joven proveniente de una familia ligada a la mafia que es reclutado en una peligrosa misión para ser encarcelado por un año y luego infiltrarse en la organización mafiosa del jefe criminal Celal.</desc>
+    <credits>
+      <director>Uluç Bayraktar</director>
+      <actor>Çagatay Ulusoy</actor>
+      <actor>Aras Bulut Iynemli</actor>
+      <actor>Çetin Tekindor</actor>
+      <actor>Ihal G. Koldas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3974328.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826000000 -0300" stop="20210826003000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Icerde</title>
+    <desc lang="es">La historia se centra en Sarp, joven proveniente de una familia ligada a la mafia que es reclutado en una peligrosa misión para ser encarcelado por un año y luego infiltrarse en la organización mafiosa del jefe criminal Celal.</desc>
+    <credits>
+      <director>Uluç Bayraktar</director>
+      <actor>Çagatay Ulusoy</actor>
+      <actor>Aras Bulut Iynemli</actor>
+      <actor>Çetin Tekindor</actor>
+      <actor>Ihal G. Koldas</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3974328.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826003000 -0300" stop="20210826005000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Staff</title>
+    <desc lang="es">Una propuesta diferente para irse a dormir informado y con una sonrisa. Un magazine informativo conducido por cuatro jóvenes periodistas que harán un resumen del día de un modo más descontracturado, acompañado de música y humor.</desc>
+    <date>2017</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/10763642.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826005000 -0300" stop="20210826010000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Espacios comerciales</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12055194.jpg" />
+  </programme>
+  <programme start="20210826010000 -0300" stop="20210826013000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">La hora del milagro</title>
+    <desc lang="es">Ayuda y muestra a cualquier tipo de persona sin importar su estrato social o religión, que hay una salida a sus problemas por medio de experiencias y testimonios de personas que encontraron en Dios la solución a sus dificultades.</desc>
+    <date>2012</date>
+    <category lang="es">Religioso</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/2800102.jpg" />
+    <country lang="es">México</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210826013000 -0300" stop="20210826023000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Leiva joyas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13557633.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826023000 -0300" stop="20210826031500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">The Challenge</title>
+    <desc lang="es">Un reality que deriva de Real World y Road Rules, y cuenta con ex alumnos de estos dos espectáculos, además de novatos y ex alumnos de The Challenge, Are You the One?, Big Brother, Ex on the Beach y Geordie Shore.</desc>
+    <date>1998</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13428706.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826031500 -0300" stop="20210826044500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Jersey Shore: vacaciones en familia</title>
+    <title lang="en">Jersey Shore Family Vacation</title>
+    <desc lang="es">Los "Shores" originales vuelven para vivir un auténtico reencuentro familiar. El esperado regreso cuenta con los miembros de la primera familia, reunidos en Miami, pero los problemas legales de Mike pondrán en peligro las vacaciones.</desc>
+    <date>2018</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6597720.jpg" />
+    <country lang="es">EE. UU.</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826044500 -0300" stop="20210826060000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Espacios comerciales</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12055194.jpg" />
+  </programme>
+  <programme start="20210826060000 -0300" stop="20210826064500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Nick Jr.</title>
+    <desc lang="es">Para acompañar todos los días a los más pequeños y divertirse junto a nuevos amigos, llegan "Paw Patrol, patrulla de cachorros", "Shimmer &amp; Shine", "Alvin y las ardillas", "Dora y sus amigos" y muchos personajes más.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3053535.jpg" />
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210826064500 -0300" stop="20210826070000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Tránsito y temperatura</title>
+    <desc lang="es">Un espacio que detalla el tránsito y la temperatura.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9223737.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826070000 -0300" stop="20210826093000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Buen Telefe</title>
+    <desc lang="es">Toda la actualidad acompañado por un equipo de periodistas especializados en distintos temas.</desc>
+    <date>2018</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7360561.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826093000 -0300" stop="20210826103000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Josué y la tierra prometida</title>
+    <desc lang="es">La historia bíblica en la que Josué asume el mando de las tribus de Israel en busca de la tierra prometida, a la vez que afronta sus propios conflictos personales para poder seguir los designios de Dios.</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <director>Vivianne Jundi</director>
+      <director>Michele Lavalle</director>
+      <actor>Walter Breda</actor>
+      <actor>Beth Goulart</actor>
+      <actor>Milhem Cortaz</actor>
+      <actor>Sidney Sampaio</actor>
+      <actor>Thaís Melchior</actor>
+      <actor>Paloma Bernardi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/3200647.jpg" />
+    <country lang="es">Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826103000 -0300" stop="20210826113000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Resumen - Doctor Milagro</title>
+    <title lang="en">Mucize Doktor</title>
+    <sub-title lang="es">Doctor Milagro</sub-title>
+    <desc lang="es">Vive el resumen. El joven Ali Vefa, abandonado de niño por su padre, logra convertirse en médico y se une al equipo de cirugía de un hospital. Pero sus relaciones interpersonales y profesionales se ven afectadas por el síndrome del sabio.</desc>
+    <credits>
+      <director>Yusuf Pirhasan</director>
+      <actor>Murat Aygen</actor>
+      <actor>Taner Ölmez</actor>
+      <actor>Hazal Türesan</actor>
+      <actor>Reha Özcan</actor>
+      <actor>Bihter Dinçel</actor>
+      <actor>Hayal Köseoglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13235405.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826113000 -0300" stop="20210826130000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Flor de equipo</title>
+    <desc lang="es">Un magazine diferente para las mañanas, con todos los temas de actualidad, y también con mucho humor. Flor se muda a un edificio y allí convivirá con vecinos reconocidos y con mucha información para compartir cada día.</desc>
+    <date>2020</date>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12502194.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826130000 -0300" stop="20210826143000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">El noticiero de la gente</title>
+    <desc lang="es">Todas las noticias de actualidad de Argentina y el mundo.</desc>
+    <date>2019</date>
+    <category lang="es">Interés general</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9246083.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826143000 -0300" stop="20210826154500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Cortá por Lozano</title>
+    <desc lang="es">Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11241855.jpg" />
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826154500 -0300" stop="20210826170000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Dulce ambición</title>
+    <title lang="en">A dona do pedaço</title>
+    <desc lang="es">La rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu. Sin embargo, la sed de venganza y la violencia no son mas que obstáculos para alcanzar la paz.</desc>
+    <credits>
+      <director>Amora Mautner</director>
+      <director>Luciano Sabino</director>
+      <actor>Malvino Salvador</actor>
+      <actor>Juliana Paes</actor>
+      <actor>Caio Castro</actor>
+      <actor>Nathalia Dill</actor>
+      <actor>Sérgio Guizé</actor>
+      <actor>Paolla Oliveira</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12917951.jpg" />
+    <country lang="es">Brasil</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826170000 -0300" stop="20210826174500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Tierra amarga</title>
+    <title lang="en">Bir Zamanlar Çukurova</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.</desc>
+    <credits>
+      <director>Evren Karabiyik</director>
+      <actor>Turgay Aydin</actor>
+      <actor>Vahide Perçin</actor>
+      <actor>Hilal Altinbilek</actor>
+      <actor>Ugur Gunes</actor>
+      <actor>Murat Unalmis</actor>
+      <actor>Bülent Polat</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/12117188.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826174500 -0300" stop="20210826183000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Guerra de rosas</title>
+    <title lang="en">Güllerin Savasi</title>
+    <desc lang="es">Una joven nacida en un barrio urbano es criada en una mansión donde su padre trabajaba como jardinero. Ella admiraba a Gulfem Sipahi, la hija del millonario dueño del lugar, aunque después todo cambiará.</desc>
+    <credits>
+      <actor>Alma Terzic</actor>
+      <actor>Canan Ergüder</actor>
+      <actor>Damla Sömnez</actor>
+      <actor>Baris Kiliç</actor>
+      <actor>Sercan Badur</actor>
+      <actor>Yigit Kirazci</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4093965.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826183000 -0300" stop="20210826200000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Un reality en el que dos participantes, acompañados de dos famosos cada uno, competirán en distintos juegos cuyo objetivo es la suma de segundos para contestar a todas las definiciones de la prueba final, llamada El Rosco.</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13456081.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210826200000 -0300" stop="20210826211500 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Telefe noticias</title>
+    <desc lang="es">Un sello de compromiso periodístico pero con mucha más información, más investigación y logrando una mirada global de cada hecho.</desc>
+    <date>2019</date>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4420215.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826211500 -0300" stop="20210826223000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">Doctor Milagro</title>
+    <title lang="en">Mucize Doktor</title>
+    <desc lang="es">El joven Ali Vefa, abandonado de niño por su padre, logra convertirse en médico y se une al equipo de cirugía de un hospital. Pero sus relaciones interpersonales y profesionales se ven afectadas por el síndrome del sabio.</desc>
+    <credits>
+      <director>Yusuf Pirhasan</director>
+      <actor>Murat Aygen</actor>
+      <actor>Taner Ölmez</actor>
+      <actor>Hazal Türesan</actor>
+      <actor>Reha Özcan</actor>
+      <actor>Bihter Dinçel</actor>
+      <actor>Hayal Köseoglu</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/13235405.jpg" />
+    <country lang="es">Turquía</country>
+    <rating>
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20210826223000 -0300" stop="20210827000000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">La voz Argentina</title>
+    <desc lang="es">El talent show musical número uno del mundo, con la conducción de Marley y la participación especial de destacadas figuras de la música internacional como coaches: Ricardo Montaner, Soledad Pastorutti, Mau y Ricky, y Lali Espósito.</desc>
+    <date>2021</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15103177.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20210827223000 -0300" stop="20210828000000 -0300" channel="ARG-Telefe (TV)(1080)">
+    <title lang="es">La voz Argentina</title>
+    <desc lang="es">El talent show musical número uno del mundo, con la conducción de Marley y la participación especial de destacadas figuras de la música internacional como coaches: Ricardo Montaner, Soledad Pastorutti, Mau y Ricky, y Lali Espósito.</desc>
+    <date>2021</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15103177.jpg" />
+    <country lang="es">Argentina</country>
+    <rating>
+      <value>ATP</value>
+    </rating>
   </programme>
   <programme start="20210824203000 +0000" stop="20210824220000 +0000" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Amor y prejuicio</title>
@@ -2134,28 +2680,6 @@
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/13/9134364_68FE9F0CEEB09D50.jpg" />
     <country lang="es">TR</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20210824210000 +0000" stop="20210824220000 +0000" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Directo USA</title>
-    <desc lang="es">Directo desde Estados Unidos, una cobertura especial a los aspectos mÃ¡s sobresalientes de las noticias con mayor interÃ©s despiertan en el paÃ­s del norte y analiza junto a un panel de expertos la manera en que esos sucesos afectarÃ¡n a la audiencia en AmÃ©rica Latina.</desc>
-    <category lang="es">Actualidad</category>
-    <category lang="es">Noticias</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/58/7586971_4F364A43EFF65729.jpg" />
-    <country lang="es">US</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20210824220000 +0000" stop="20210824230000 +0000" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde MÃ©xico</title>
-    <desc lang="es">Espacio donde los periodistas, expertos y los protagonistas de las noticias analizan las historias que determinan la agenda nacional deteniÃ©ndose en cada detalle para que no te pierdas ninguna informaciÃ³n valiosa acerca del acontecer diario.</desc>
-    <category lang="es">Entrevista</category>
-    <category lang="es">PolÃ­tica</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6124096_D14A9D8E752DCAB5.jpg" />
-    <country lang="es">MX</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -2720,27 +3244,6 @@
       <value>TE</value>
     </rating>
   </programme>
-  <programme start="20210824210000 +0000" stop="20210824220000 +0000" channel="PER-America TV (TV)(720)">
-    <title lang="es">Quererlo todo</title>
-    <desc lang="es">Don Patricio Montes, un hacendado mujeriego con una gran fortuna, deja a una de sus mÃ¡s leales trabajadoras, Dalias Santos como albacea de sus bienes y responsable de reunir a su familia. Sin embargo, tras su muerte se realiza una verdadera lucha entre sus hijos que buscan apoderarse de su dinero.</desc>
-    <credits>
-      <director>Claudia Elisa Aguilar</director>
-      <actor>VÃ­ctor GonzÃ¡lez</actor>
-      <actor>Scarlet Gruber</actor>
-      <actor>Danilo Carrera</actor>
-      <actor>Michelle Renaud</actor>
-      <actor>Olivia Bucio</actor>
-      <actor>Sara Corrales Castillo</actor>
-      <actor>Manuel Ojeda Armenta</actor>
-    </credits>
-    <category lang="es">Comedia</category>
-    <category lang="es">Novela</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/83/8835734_EB7542EC82B3FFE5.jpg" />
-    <country lang="es">MX</country>
-    <rating system="MJColombia">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20210824220000 +0000" stop="20210825000000 +0000" channel="PER-America TV (TV)(720)">
     <title lang="es">Los milagros de la rosa</title>
     <desc lang="es">Descubre las milagrosas historias, inspiradas en la fe y esperanza de quienes siguen a la Virgen de Guadalupe. Vidas tocadas por acontecimientos adversos que dan testimonio de los milagros de la santa Virgen con la presencia de la rosa celestial.</desc>
@@ -3290,17 +3793,6 @@
     <category lang="es">Drama</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/77/8779523_77D1A3D2717BCD69.jpg" />
     <country lang="es">MX</country>
-    <rating system="MJColombia">
-      <value>TE</value>
-    </rating>
-  </programme>
-  <programme start="20210824210000 +0000" stop="20210824220000 +0000" channel="PER-Canal N (M)(1080)">
-    <title lang="es">N Noticias</title>
-    <desc lang="es">Noticiero que le permite estar informado sobre los principales acontecimientos del PerÃº y el mundo a travÃ©s de notas relacionadas con temas sociales, polÃ­ticos, de salud y econÃ³micos. AdemÃ¡s de realizar entrevistas a personajes importantes del paÃ­s.</desc>
-    <category lang="es">Actualidad</category>
-    <category lang="es">Entrevista</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/60/6609793_4B5FACBE8F2D5628.jpg" />
-    <country lang="es">PE</country>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
