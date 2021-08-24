@@ -6,7 +6,8 @@
   </channel>
   <channel id="PER-ATV (TV)(720)">
     <display-name lang="es">PER-ATV (TV)(720)</display-name>
-    <url>http://www.gatotv.com</url>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527587_32E6A6179D3F9DDF.png" />
+    <url>http://www.movistar.com.pe</url>
   </channel>
   <channel id="PER-Latina (TV)(720)">
     <display-name lang="es">PER-Latina (TV)(720)</display-name>
@@ -28,899 +29,1212 @@
     <display-name lang="es">PER-America TV (TV)(720)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210823040000 -0700" stop="20210823080000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824040000 -0500" stop="20210824080000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">PBO Digital</title>
   </programme>
-  <programme start="20210823080000 -0700" stop="20210823090000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824080000 -0500" stop="20210824090000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">El Dr. Borda</title>
   </programme>
-  <programme start="20210823090000 -0700" stop="20210823093000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824090000 -0500" stop="20210824093000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Un dia en el mall</title>
   </programme>
-  <programme start="20210823093000 -0700" stop="20210823103000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Contracorriente</title>
+  <programme start="20210824093000 -0500" stop="20210824103000 -0500" channel="PER-Willax (TV)(720)">
+    <title lang="es">La Vacuna Electoral</title>
   </programme>
-  <programme start="20210823103000 -0700" stop="20210823114000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824103000 -0500" stop="20210824114000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Willax Noticias Edición Mediodía</title>
   </programme>
-  <programme start="20210823114000 -0700" stop="20210823115000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824114000 -0500" stop="20210824115000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Gana con Willax</title>
   </programme>
-  <programme start="20210823115000 -0700" stop="20210823140000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824115000 -0500" stop="20210824140000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Amor y Fuego</title>
   </programme>
-  <programme start="20210823140000 -0700" stop="20210823144500 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824140000 -0500" stop="20210824144500 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Un dia en el mall</title>
   </programme>
-  <programme start="20210823144500 -0700" stop="20210823165000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824144500 -0500" stop="20210824165000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Taquilla Willax</title>
   </programme>
-  <programme start="20210823165000 -0700" stop="20210823175500 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824165000 -0500" stop="20210824175500 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Willax Noticias Edición Central</title>
   </programme>
-  <programme start="20210823175500 -0700" stop="20210823185500 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824175500 -0500" stop="20210824185500 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Milagros Leiva, entrevista</title>
   </programme>
-  <programme start="20210823185500 -0700" stop="20210823200000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824185500 -0500" stop="20210824200000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Beto a Saber</title>
   </programme>
-  <programme start="20210823200000 -0700" stop="20210823200500 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824200000 -0500" stop="20210824200500 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Yo Caviar con Aldo Mariátegui</title>
   </programme>
-  <programme start="20210823200500 -0700" stop="20210823210500 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824200500 -0500" stop="20210824210500 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Combutters</title>
   </programme>
-  <programme start="20210823210500 -0700" stop="20210823211000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824210500 -0500" stop="20210824211000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Camotillo, el Tinterillo</title>
   </programme>
-  <programme start="20210823211000 -0700" stop="20210823220000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824211000 -0500" stop="20210824220000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Bayly</title>
   </programme>
-  <programme start="20210823220000 -0700" stop="20210823230000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824220000 -0500" stop="20210824230000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">La Milenaria</title>
   </programme>
-  <programme start="20210823230000 -0700" stop="20210824000000 -0700" channel="PER-Willax (TV)(720)">
+  <programme start="20210824230000 -0500" stop="20210825000000 -0500" channel="PER-Willax (TV)(720)">
     <title lang="es">Programación Pagada</title>
   </programme>
-  <programme start="20210824093000 -0700" stop="20210824103000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">La Vacuna Electoral</title>
+  <programme start="20210825115000 -0500" stop="20210825140000 -0500" channel="PER-Willax (TV)(720)">
+    <title lang="es">Amor y Fuego</title>
   </programme>
-  <programme start="20210824144500 -0700" stop="20210824165000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Taquilla Willax</title>
-  </programme>
-  <programme start="20210825090000 -0700" stop="20210825100000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Mundo tuerca</title>
-  </programme>
-  <programme start="20210825100000 -0700" stop="20210825120000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Dulce venganza</title>
-  </programme>
-  <programme start="20210825120000 -0700" stop="20210825130000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Descubre el Perú</title>
-  </programme>
-  <programme start="20210825130000 -0700" stop="20210825140000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Al Día con Willax</title>
-  </programme>
-  <programme start="20210825140000 -0700" stop="20210825160000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Dragon ball super</title>
-  </programme>
-  <programme start="20210825160000 -0700" stop="20210825180000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Butaca vip</title>
-  </programme>
-  <programme start="20210825180000 -0700" stop="20210825190000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Políticas</title>
-  </programme>
-  <programme start="20210825190000 -0700" stop="20210825200000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Crónicas de impacto</title>
-  </programme>
-  <programme start="20210825200000 -0700" stop="20210825210000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">La Vacuna Electoral</title>
-  </programme>
-  <programme start="20210825210000 -0700" stop="20210825220000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Vida y Milagros</title>
-  </programme>
-  <programme start="20210826040000 -0700" stop="20210826050000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Crónicas de impacto</title>
-  </programme>
-  <programme start="20210826050000 -0700" stop="20210826070000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Nutrisa</title>
-  </programme>
-  <programme start="20210826070000 -0700" stop="20210826090000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Película Religiosa</title>
-  </programme>
-  <programme start="20210826090000 -0700" stop="20210826100000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">La Misa</title>
-  </programme>
-  <programme start="20210826100000 -0700" stop="20210826110000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Pierangeli en Casa</title>
-  </programme>
-  <programme start="20210826110000 -0700" stop="20210826120000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Hechos en Willax</title>
-  </programme>
-  <programme start="20210826120000 -0700" stop="20210826130000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Vida y Milagros</title>
-  </programme>
-  <programme start="20210826130000 -0700" stop="20210826140000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Príncipe Del Café</title>
-  </programme>
-  <programme start="20210826140000 -0700" stop="20210826170000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Cobertura Especial</title>
-  </programme>
-  <programme start="20210826170000 -0700" stop="20210826180000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Políticas</title>
-  </programme>
-  <programme start="20210826180000 -0700" stop="20210826190000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Edición Especial</title>
-  </programme>
-  <programme start="20210826190000 -0700" stop="20210826200000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Contracorriente</title>
-  </programme>
-  <programme start="20210826200000 -0700" stop="20210826213000 -0700" channel="PER-Willax (TV)(720)">
-    <title lang="es">Rey con Barba</title>
-  </programme>
-  <programme start="20210823010000 -0700" stop="20210823014500 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Mentes Criminales</title>
-    <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.</desc>
+  <programme start="20210824190000 +0000" stop="20210824200000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">PerdÃ³name</title>
+    <desc lang="es">Feride perdiÃ³ a sus padres a muy temprana edad, por lo que es recibida en la familia Kozan, donde se enamora de Cuneyt, uno de los hijo de Osman, lÃ­der de la familia. Mientras tanto, Kemal se enamora de Bahar, a pesar de ser de distinta clase sociales.</desc>
     <credits>
-      <actor>Mandy Patinkin</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Lola Glaudini</actor>
-      <actor>Shemar Moore</actor>
-      <actor>Matthew Gray Gubler</actor>
-      <actor>A. J. Cook</actor>
-      <actor>Kirsten Vangsness</actor>
-      <actor>Paget Brewster</actor>
+      <actor>Gaye Turgut</actor>
+      <actor>Nusret Senay</actor>
+      <actor>Seyma Korkmaz</actor>
+      <actor>Murat Danaci</actor>
     </credits>
-    <date>2005</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/criminal_minds.jpg" />
-    <rating>
-      <value>TV-14</value>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/65/8655671_FAD153B476925E6D.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
     </rating>
   </programme>
-  <programme start="20210823014500 -0700" stop="20210823024500 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Almas Suspendidas</title>
-    <desc lang="es">Desde que era niña, Melinda Gordon puede comunicarse con los muertos, con este regalo ella debe ayudarlos a encontrar la manera de llevarlos a la luz.</desc>
-    <credits>
-      <actor>Jennifer Love Hewitt</actor>
-      <actor>Aisha Tyler</actor>
-      <actor>David Conrad</actor>
-      <actor>Camryn Manheim</actor>
-      <actor>Jay Mohr</actor>
-      <actor>Christoph Sanders</actor>
-      <actor>Jamie Kennedy</actor>
-      <actor>Connor Gibbs</actor>
-      <producer>Jennifer Love Hewitt</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ghost_whisperer.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20210823024500 -0700" stop="20210823040000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Canto Andino</title>
-  </programme>
-  <programme start="20210823040000 -0700" stop="20210823080000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">ATV Noticias edición matinal</title>
-  </programme>
-  <programme start="20210823080000 -0700" stop="20210823090000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">La tercera en discorda</title>
-  </programme>
-  <programme start="20210823090000 -0700" stop="20210823100000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20210823100000 -0700" stop="20210823110000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Mujer, casos de la vida real</title>
-  </programme>
-  <programme start="20210823110000 -0700" stop="20210823120000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Marisol</title>
-  </programme>
-  <programme start="20210823120000 -0700" stop="20210823130000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Perdóname</title>
-  </programme>
-  <programme start="20210823130000 -0700" stop="20210823140000 -0700" channel="PER-ATV (TV)(720)">
+  <programme start="20210824200000 +0000" stop="20210824210000 +0000" channel="PER-ATV (TV)(720)">
     <title lang="es">Estrella de amor</title>
-  </programme>
-  <programme start="20210823140000 -0700" stop="20210823150000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Elif</title>
-  </programme>
-  <programme start="20210823150000 -0700" stop="20210823160000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Feriha</title>
-  </programme>
-  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Fatmagul</title>
-  </programme>
-  <programme start="20210823170000 -0700" stop="20210823183000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">ATV Noticias al estilo Juliana</title>
-  </programme>
-  <programme start="20210823183000 -0700" stop="20210823193000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Andrea</title>
-  </programme>
-  <programme start="20210823193000 -0700" stop="20210823210000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Magaly TV</title>
-  </programme>
-  <programme start="20210823210000 -0700" stop="20210823214500 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">ATV Noticias</title>
-  </programme>
-  <programme start="20210823214500 -0700" stop="20210823220000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">El Deportivo</title>
-  </programme>
-  <programme start="20210823220000 -0700" stop="20210823230000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">CSI: NY</title>
-    <title lang="xx">CSI: NY</title>
-    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.</desc>
+    <desc lang="es">Kusey y Yildiz estaban enamorados, sin embargo, Ã©l se deja llevar por la vida de la gran ciudad de Estambul y termina casÃ¡ndose con otra mujer. 20 aÃ±os despuÃ©s, la vida lo obliga a regresar a su ciudad natal, donde Yildiz lo espera con el resentimiento intacto. Su amada esposa lo engaÃ±Ã³, se llevÃ³ todo el dinero y lo dejÃ³ en la calle a Ã©l y a sus tres hijas.</desc>
     <credits>
-      <actor>Gary Sinise</actor>
-      <actor>Melina Kanakaredes</actor>
+      <director>Ersoy GÃ¼ler</director>
+      <actor>Toygan Avanoglu</actor>
+      <actor>Aslihan GÃ¼ner</actor>
+      <actor>Aslihan Kapansahin</actor>
+      <actor>Berfin Nilsu Aktas</actor>
+      <actor>Gizem GÃ¼nes</actor>
+      <actor>Ismail Demirci</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9215097_44A3EBF8C969DEAC.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210824210000 +0000" stop="20210824213000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210824213000 +0000" stop="20210824220000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210824220000 +0000" stop="20210824230000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El secreto de Feriha</title>
+    <desc lang="es">Feriha Yilmaz es la hija de un portero en un exclusivo lugar. Ella se siente avergonzada de su situaciÃ³n y al ingresar a una exclusiva universidad, finge ser una chica de familia rica, pero su red de mentiras la irÃ¡n enredando de a pocos.</desc>
+    <credits>
+      <actor>Ãagatay Ulusoy</actor>
+      <actor>Hazal Kaya</actor>
+      <actor>Metin Ãekmez</actor>
+      <actor>Deniz Ugur</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8702373_66FDC39023870EA8.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210824230000 +0000" stop="20210825000000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Â¿QuÃ© culpa tiene Fatmagul?</title>
+    <desc lang="es">Kerim y los primos Yasaran son llevados a Izmir a testificar. El padre de Meltem pide una compensaciÃ³n a los Yasaran por los daÃ±os que le han causado a su hija. Asu estÃ¡ decepcionada de MustafÃ¡.</desc>
+    <credits>
+      <director>Hilal Saral</director>
+      <actor>Firat Celik</actor>
+      <actor>Engin AkyÃ¼rek</actor>
+      <actor>Bugra GÃ¼lsoy</actor>
+      <actor>Beren Saat</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/63/8631282_D2EEFF594238FE67.jpg" />
+    <country lang="es">TR</country>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825000000 +0000" stop="20210825013000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">ATV Noticias al estilo Juliana</title>
+    <desc lang="es">Programa de corte informativo que brinda novedades, por menores y demÃ¡s notas destacadas del acontecer dial, en el Ã¡mbito polÃ­tico, econÃ³mico y social, tanto a nivel nacional como internacional. AdemÃ¡s, enlaces en vivo con los protagonistas de los hechos.</desc>
+    <category lang="es">Actualidad</category>
+    <category lang="es">Entrevista</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/16/8168448_F49007CAA1092EBD.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210825013000 +0000" stop="20210825023000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Andrea</title>
+    <desc lang="es">Una reconocida periodista peruana se encarga de tocar los temas sociales mÃ¡s controversiales de la actualidad, los cuales son ejemplificados con casos reales de personas que al no tener una soluciÃ³n por el medio regular, buscan las respuestas en compaÃ±Ã­a de todo un equipo de investigaciÃ³n.</desc>
+    <category lang="es">Social</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6126481_F2F0C336CB8CDD0F.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825023000 +0000" stop="20210825040000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Magaly Tv 'La firme'</title>
+    <desc lang="es">Un espacio para disfrutar de divertidas entrevistas a personalidades del medio televisivo, e invitados especiales dispuestos a llegar a los hogares con una sobredosis de entretenimiento.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/96/6963526_FC594F2C2330100C.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825040000 +0000" stop="20210825044500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">ATV noticias - EdiciÃ³n central</title>
+    <desc lang="es">EdiciÃ³n central del noticiero de ATV con la mejor cobertura periodÃ­stica del acontecer nacional, asÃ­ como reportajes especiales.</desc>
+    <category lang="es">Actualidad</category>
+    <category lang="es">Nacional</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6126389_BCB3133BF4834725.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210825044500 +0000" stop="20210825050000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El Deportivo, en otra cancha</title>
+    <desc lang="es">Disfruta este entretenido programa que planea que tus noches ya no sean solamente de deporte, sino que contara con entretenidos secuencias que sorprenderÃ¡n al pÃºblico nocturno. EntÃ©rate de las Ãºltimas noticias del mundo del deporte de una manera diferente.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/08/9082461_13A19BCA0AE7BECE.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210825050000 +0000" stop="20210825060000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">CSI: New York</title>
+    <sub-title lang="es">Comprar hasta reventar</sub-title>
+    <desc lang="es">Un gerente de tienda por departamentos es encontrado muerto dentro de la ventana de su tienda, y el principal sospechoso en el caso, es uno de sus subdirectores, quien se niega a decir una palabra durante el interrogatorio.</desc>
+    <credits>
+      <director>Skipp Sudduth</director>
       <actor>Carmine Giovinazzo</actor>
-      <actor>Vanessa Ferlito</actor>
+      <actor>Gary Sinise</actor>
       <actor>Hill Harper</actor>
+      <actor>Sela Ward</actor>
+      <actor>AJ Buckley</actor>
+      <actor>Robert Joy</actor>
       <actor>Eddie Cahill</actor>
       <actor>Anna Belknap</actor>
-      <actor>Robert Joy</actor>
-      <producer>Gary Sinise</producer>
     </credits>
-    <date>2004</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_nueva_york.jpg" />
-    <rating>
-      <value>TV-14</value>
+    <category lang="es">AcciÃ³n</category>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/92/8926688_D5B662D472843EB0.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
     </rating>
   </programme>
-  <programme start="20210823230000 -0700" stop="20210824000000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Criminologia naval LA</title>
+  <programme start="20210825060000 +0000" stop="20210825070000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">NCIS: New Orleans</title>
+    <sub-title lang="es">Escape</sub-title>
+    <desc lang="es">El equipo de NCIS investiga el choque de un autobÃºs blindado que transportaba a detenidos de la Armada luego de que cuatro prisioneros escapan, entre ellos un corredor del mercado negro que representa una de las mayores amenazas para la seguridad nacional.</desc>
+    <credits>
+      <director>Tony Wharmby</director>
+      <actor>Rob Kerkovich</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Stacie Davis</actor>
+      <actor>Scott Bakula</actor>
+      <actor>Charles Barber</actor>
+    </credits>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/00/9003362_EB19ECE853DC295B.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
   </programme>
-  <programme start="20210824160000 -0700" stop="20210824170000 -0700" channel="PER-ATV (TV)(720)">
-    <title lang="es">Fatmagul</title>
+  <programme start="20210825070000 +0000" stop="20210825080000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Medium</title>
+    <desc lang="es">Allison Dubois es una madre de familia que tiene la habilidad de comunicarse con los muertos. Gracias a su extraÃ±o don, ella es contratada para ayudar al fiscal Devalos a resolver numerosos crÃ­menes, mientras lidia con su talento en su vida personal.</desc>
+    <credits>
+      <director>Glenn Gordon Caron</director>
+      <actor>Anjelica Huston</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Miguel Sandoval</actor>
+      <actor>David Cubitt</actor>
+      <actor>Sofia Vassilieva</actor>
+      <actor>Jake Weber</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/70/6700750_F9842CC23BAABFFC.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
   </programme>
-  <programme start="20210823023000 -0700" stop="20210823030000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210825080000 +0000" stop="20210825084500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Criminal minds</title>
+    <desc lang="es">CrÃ³nica de un grupo de Ã©lite perteneciente al FBI, donde la experiencia de cada uno de sus miembros los ayuda a pensar como criminales para establecer con exactitud las motivaciones de los malhechores y anticiparse a su siguiente movimiento.</desc>
+    <credits>
+      <director>Jeff Davis</director>
+      <actor>Shermar Moore</actor>
+      <actor>AJ Cook</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7050374_1B539E5399B7EBC7.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825084500 +0000" stop="20210825094500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Ghost Whisperer</title>
+    <desc lang="es">Cuando acaba de empezar su vida de casada, Melinda Gordon descubre que puede comunicarse con espÃ­ritus errantes y fantasmas que se aferran a los vivos por algÃºn asunto inconcluso.</desc>
+    <credits>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Jay Mohr</actor>
+      <actor>David Conrad</actor>
+      <actor>Camryn Manheim</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6123168_EA576EE429420E99.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825094500 +0000" stop="20210825110000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Canto andino</title>
+    <desc lang="es">Programa que muestra lo mejor del folclore andino, las Ãºltimas noticias en torno a este gÃ©nero musical peruano, sus exponentes mÃ¡s sobresalientes, asÃ­ como presentaciones y conciertos realizados a nivel nacional e internacional.</desc>
+    <category lang="es">EspectÃ¡culo</category>
+    <category lang="es">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122055_B5F733D658845EAF.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825110000 +0000" stop="20210825150000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Atv noticias - EdiciÃ³n matinal</title>
+    <desc lang="es">Espacio informativo matinal, donde se dan a conocer las mejores notas del acontecer nacional e internacional, asÃ­ como entrevistas especiales con los protagonistas directos de los hechos que mÃ¡s han suscitado a la opiniÃ³n pÃºblica.</desc>
+    <category lang="es">PolÃ­tica</category>
+    <category lang="es">Nacional</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/54/8546547_12EABA90E7051779.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210825150000 +0000" stop="20210825160000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">La 3ra en discordia</title>
+    <desc lang="es">Ocho investigadores son los encargados de seleccionar minuciosamente los casos de personas que descubrieron una tercera discordia en sus vidas. Conoce las historias mÃ¡s impactantes de los participantes relacionados con sus vicios, adicciones y amantes.</desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/38/7384038_AF245B80F9E3BFBF.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825160000 +0000" stop="20210825170000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Programa que nos lleva por las mÃ¡s variadas historias de vida, las cuales nacen en el cafÃ© de Don TomÃ¡s, un carismÃ¡tico seÃ±or que ve pasar a diversos clientes con las historias de vida mÃ¡s increÃ­bles. AsÃ­, cada una de las situaciones se convierten en un refrÃ¡n o dicho para el mencionado local.</desc>
+    <credits>
+      <director>Vittoria Zarattini</director>
+      <actor>Michael Ronda</actor>
+      <actor>HÃ©ctor Sandarti</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Wendy GonzÃ¡lez</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122380_00DEAC140E94CE3A.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825170000 +0000" stop="20210825173000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer casos de la vida real</title>
+    <desc lang="es">Con mÃ¡s de 1000 programas transmitidos y producido por la seÃ±ora Silvia Pinal, el espacio presenta historias de todo tipo de mujeres, que tiene que convivir con el drama pasional, el infortunio, la violencia y el desamor.</desc>
+    <credits>
+      <actor>Aracely ArÃ¡mbula</actor>
+      <actor>Silvia Pinal</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/49/7495371_219727C8F6354E36.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825173000 +0000" stop="20210825180000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer casos de la vida real</title>
+    <desc lang="es">Con mÃ¡s de 1000 programas transmitidos y producido por la seÃ±ora Silvia Pinal, el espacio presenta historias de todo tipo de mujeres, que tiene que convivir con el drama pasional, el infortunio, la violencia y el desamor.</desc>
+    <credits>
+      <actor>Aracely ArÃ¡mbula</actor>
+      <actor>Silvia Pinal</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/49/7495371_219727C8F6354E36.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825180000 +0000" stop="20210825183000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Marisol</title>
+    <desc lang="es">Marisol tiene una vida pesada, ella tiene una cicatriz en su rostro ya que cuando era niÃ±a cayÃ³ en un espejo quebrado, pero ella se enamora de un hombre rico JosÃ© AndrÃ©s, desde entonces su vida cambiarÃ¡.</desc>
+    <credits>
+      <actor>Eduardo Santamarina</actor>
+      <actor>Claudia Islas</actor>
+      <actor>Ãrika Buenfil</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9286814_F1A6F2964838296F.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825183000 +0000" stop="20210825190000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Marisol</title>
+    <desc lang="es">Marisol tiene una vida pesada, ella tiene una cicatriz en su rostro ya que cuando era niÃ±a cayÃ³ en un espejo quebrado, pero ella se enamora de un hombre rico JosÃ© AndrÃ©s, desde entonces su vida cambiarÃ¡.</desc>
+    <credits>
+      <actor>Eduardo Santamarina</actor>
+      <actor>Claudia Islas</actor>
+      <actor>Ãrika Buenfil</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9286814_F1A6F2964838296F.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825190000 +0000" stop="20210825200000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">PerdÃ³name</title>
+    <desc lang="es">Feride perdiÃ³ a sus padres a muy temprana edad, por lo que es recibida en la familia Kozan, donde se enamora de Cuneyt, uno de los hijo de Osman, lÃ­der de la familia. Mientras tanto, Kemal se enamora de Bahar, a pesar de ser de distinta clase sociales.</desc>
+    <credits>
+      <actor>Gaye Turgut</actor>
+      <actor>Nusret Senay</actor>
+      <actor>Seyma Korkmaz</actor>
+      <actor>Murat Danaci</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/65/8655671_FAD153B476925E6D.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825200000 +0000" stop="20210825210000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Estrella de amor</title>
+    <desc lang="es">Kusey y Yildiz estaban enamorados, sin embargo, Ã©l se deja llevar por la vida de la gran ciudad de Estambul y termina casÃ¡ndose con otra mujer. 20 aÃ±os despuÃ©s, la vida lo obliga a regresar a su ciudad natal, donde Yildiz lo espera con el resentimiento intacto. Su amada esposa lo engaÃ±Ã³, se llevÃ³ todo el dinero y lo dejÃ³ en la calle a Ã©l y a sus tres hijas.</desc>
+    <credits>
+      <director>Ersoy GÃ¼ler</director>
+      <actor>Toygan Avanoglu</actor>
+      <actor>Aslihan GÃ¼ner</actor>
+      <actor>Aslihan Kapansahin</actor>
+      <actor>Berfin Nilsu Aktas</actor>
+      <actor>Gizem GÃ¼nes</actor>
+      <actor>Ismail Demirci</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9215097_44A3EBF8C969DEAC.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825210000 +0000" stop="20210825213000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825213000 +0000" stop="20210825220000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825220000 +0000" stop="20210825223000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El secreto de Feriha</title>
+    <desc lang="es">Feriha Yilmaz es la hija de un portero en un exclusivo lugar. Ella se siente avergonzada de su situaciÃ³n y al ingresar a una exclusiva universidad, finge ser una chica de familia rica, pero su red de mentiras la irÃ¡n enredando de a pocos.</desc>
+    <credits>
+      <actor>Ãagatay Ulusoy</actor>
+      <actor>Hazal Kaya</actor>
+      <actor>Metin Ãekmez</actor>
+      <actor>Deniz Ugur</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8702373_66FDC39023870EA8.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825223000 +0000" stop="20210825230000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El secreto de Feriha</title>
+    <desc lang="es">Feriha Yilmaz es la hija de un portero en un exclusivo lugar. Ella se siente avergonzada de su situaciÃ³n y al ingresar a una exclusiva universidad, finge ser una chica de familia rica, pero su red de mentiras la irÃ¡n enredando de a pocos.</desc>
+    <credits>
+      <actor>Ãagatay Ulusoy</actor>
+      <actor>Hazal Kaya</actor>
+      <actor>Metin Ãekmez</actor>
+      <actor>Deniz Ugur</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8702373_66FDC39023870EA8.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210825230000 +0000" stop="20210826000000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Â¿QuÃ© culpa tiene Fatmagul?</title>
+    <desc lang="es">Kerim y los primos Yasaran son llevados a Izmir a testificar. El padre de Meltem pide una compensaciÃ³n a los Yasaran por los daÃ±os que le han causado a su hija. Asu estÃ¡ decepcionada de MustafÃ¡.</desc>
+    <credits>
+      <director>Hilal Saral</director>
+      <actor>Firat Celik</actor>
+      <actor>Engin AkyÃ¼rek</actor>
+      <actor>Bugra GÃ¼lsoy</actor>
+      <actor>Beren Saat</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/63/8631282_D2EEFF594238FE67.jpg" />
+    <country lang="es">TR</country>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826000000 +0000" stop="20210826013000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">ATV Noticias al estilo Juliana</title>
+    <desc lang="es">Programa de corte informativo que brinda novedades, por menores y demÃ¡s notas destacadas del acontecer dial, en el Ã¡mbito polÃ­tico, econÃ³mico y social, tanto a nivel nacional como internacional. AdemÃ¡s, enlaces en vivo con los protagonistas de los hechos.</desc>
+    <category lang="es">Actualidad</category>
+    <category lang="es">Entrevista</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/16/8168448_F49007CAA1092EBD.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210826013000 +0000" stop="20210826023000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Andrea</title>
+    <desc lang="es">Una reconocida periodista peruana se encarga de tocar los temas sociales mÃ¡s controversiales de la actualidad, los cuales son ejemplificados con casos reales de personas que al no tener una soluciÃ³n por el medio regular, buscan las respuestas en compaÃ±Ã­a de todo un equipo de investigaciÃ³n.</desc>
+    <category lang="es">Social</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6126481_F2F0C336CB8CDD0F.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826023000 +0000" stop="20210826040000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Magaly Tv 'La firme'</title>
+    <desc lang="es">Un espacio para disfrutar de divertidas entrevistas a personalidades del medio televisivo, e invitados especiales dispuestos a llegar a los hogares con una sobredosis de entretenimiento.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/96/6963526_FC594F2C2330100C.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826040000 +0000" stop="20210826044500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">ATV noticias - EdiciÃ³n central</title>
+    <desc lang="es">EdiciÃ³n central del noticiero de ATV con la mejor cobertura periodÃ­stica del acontecer nacional, asÃ­ como reportajes especiales.</desc>
+    <category lang="es">Actualidad</category>
+    <category lang="es">Nacional</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6126389_BCB3133BF4834725.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210826044500 +0000" stop="20210826050000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El Deportivo, en otra cancha</title>
+    <desc lang="es">Disfruta este entretenido programa que planea que tus noches ya no sean solamente de deporte, sino que contara con entretenidos secuencias que sorprenderÃ¡n al pÃºblico nocturno. EntÃ©rate de las Ãºltimas noticias del mundo del deporte de una manera diferente.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/08/9082461_13A19BCA0AE7BECE.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210826050000 +0000" stop="20210826060000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">CSI: New York</title>
+    <sub-title lang="es">Para quÃ©</sub-title>
+    <desc lang="es">DespuÃ©s que un hombre vestido con un traje de payaso mata a un propietario de una panaderÃ­a, la evidencia es pronto conectada a un hombre del pasado de Flack.</desc>
+    <credits>
+      <director>Eric Laneuville</director>
+      <actor>Gary Sinise</actor>
+      <actor>David James Elliott</actor>
+      <actor>Robert Joy</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Sela Ward</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Hill Harper</actor>
+      <actor>AJ Buckley</actor>
+    </credits>
+    <category lang="es">AcciÃ³n</category>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/92/7923166_E85611BE5D8EA607.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826060000 +0000" stop="20210826070000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">NCIS: New Orleans</title>
+    <sub-title lang="es">Los Reclutas</sub-title>
+    <desc lang="es">Cuando un agente de los Navy SEAL aparece asesinado en una casa de fraternidad, el equipo de NCIS debe determinar si la muerte se relaciona con una de sus misiones secretas o es solo un sucio juego universitario.</desc>
+    <credits>
+      <director>Gary Glasberg</director>
+      <actor>Scott Bakula</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Lucas Black</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/01/9010371_48CB5D498DF31FFD.jpg" />
+    <country lang="es">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826070000 +0000" stop="20210826080000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Medium</title>
+    <desc lang="es">Allison Dubois es una madre de familia que tiene la habilidad de comunicarse con los muertos. Gracias a su extraÃ±o don, ella es contratada para ayudar al fiscal Devalos a resolver numerosos crÃ­menes, mientras lidia con su talento en su vida personal.</desc>
+    <credits>
+      <director>Glenn Gordon Caron</director>
+      <actor>Anjelica Huston</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Miguel Sandoval</actor>
+      <actor>David Cubitt</actor>
+      <actor>Sofia Vassilieva</actor>
+      <actor>Jake Weber</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/70/6700750_F9842CC23BAABFFC.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826080000 +0000" stop="20210826084500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Criminal minds</title>
+    <desc lang="es">CrÃ³nica de un grupo de Ã©lite perteneciente al FBI, donde la experiencia de cada uno de sus miembros los ayuda a pensar como criminales para establecer con exactitud las motivaciones de los malhechores y anticiparse a su siguiente movimiento.</desc>
+    <credits>
+      <director>Jeff Davis</director>
+      <actor>Shermar Moore</actor>
+      <actor>AJ Cook</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="es">Crimen</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7050374_1B539E5399B7EBC7.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826084500 +0000" stop="20210826094500 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Ghost Whisperer</title>
+    <desc lang="es">Cuando acaba de empezar su vida de casada, Melinda Gordon descubre que puede comunicarse con espÃ­ritus errantes y fantasmas que se aferran a los vivos por algÃºn asunto inconcluso.</desc>
+    <credits>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Jay Mohr</actor>
+      <actor>David Conrad</actor>
+      <actor>Camryn Manheim</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Suspenso</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6123168_EA576EE429420E99.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826094500 +0000" stop="20210826110000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Canto andino</title>
+    <desc lang="es">Programa que muestra lo mejor del folclore andino, las Ãºltimas noticias en torno a este gÃ©nero musical peruano, sus exponentes mÃ¡s sobresalientes, asÃ­ como presentaciones y conciertos realizados a nivel nacional e internacional.</desc>
+    <category lang="es">EspectÃ¡culo</category>
+    <category lang="es">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122055_B5F733D658845EAF.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826110000 +0000" stop="20210826150000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Atv noticias - EdiciÃ³n matinal</title>
+    <desc lang="es">Espacio informativo matinal, donde se dan a conocer las mejores notas del acontecer nacional e internacional, asÃ­ como entrevistas especiales con los protagonistas directos de los hechos que mÃ¡s han suscitado a la opiniÃ³n pÃºblica.</desc>
+    <category lang="es">PolÃ­tica</category>
+    <category lang="es">Nacional</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/54/8546547_12EABA90E7051779.jpg" />
+    <country lang="es">PE</country>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20210826150000 +0000" stop="20210826160000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">La 3ra en discordia</title>
+    <desc lang="es">Ocho investigadores son los encargados de seleccionar minuciosamente los casos de personas que descubrieron una tercera discordia en sus vidas. Conoce las historias mÃ¡s impactantes de los participantes relacionados con sus vicios, adicciones y amantes.</desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/38/7384038_AF245B80F9E3BFBF.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826160000 +0000" stop="20210826170000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Programa que nos lleva por las mÃ¡s variadas historias de vida, las cuales nacen en el cafÃ© de Don TomÃ¡s, un carismÃ¡tico seÃ±or que ve pasar a diversos clientes con las historias de vida mÃ¡s increÃ­bles. AsÃ­, cada una de las situaciones se convierten en un refrÃ¡n o dicho para el mencionado local.</desc>
+    <credits>
+      <director>Vittoria Zarattini</director>
+      <actor>Michael Ronda</actor>
+      <actor>HÃ©ctor Sandarti</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Wendy GonzÃ¡lez</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/12/6122380_00DEAC140E94CE3A.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826170000 +0000" stop="20210826173000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer casos de la vida real</title>
+    <desc lang="es">Con mÃ¡s de 1000 programas transmitidos y producido por la seÃ±ora Silvia Pinal, el espacio presenta historias de todo tipo de mujeres, que tiene que convivir con el drama pasional, el infortunio, la violencia y el desamor.</desc>
+    <credits>
+      <actor>Aracely ArÃ¡mbula</actor>
+      <actor>Silvia Pinal</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/49/7495371_219727C8F6354E36.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826173000 +0000" stop="20210826180000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Mujer casos de la vida real</title>
+    <desc lang="es">Con mÃ¡s de 1000 programas transmitidos y producido por la seÃ±ora Silvia Pinal, el espacio presenta historias de todo tipo de mujeres, que tiene que convivir con el drama pasional, el infortunio, la violencia y el desamor.</desc>
+    <credits>
+      <actor>Aracely ArÃ¡mbula</actor>
+      <actor>Silvia Pinal</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/49/7495371_219727C8F6354E36.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826180000 +0000" stop="20210826183000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Marisol</title>
+    <desc lang="es">Marisol tiene una vida pesada, ella tiene una cicatriz en su rostro ya que cuando era niÃ±a cayÃ³ en un espejo quebrado, pero ella se enamora de un hombre rico JosÃ© AndrÃ©s, desde entonces su vida cambiarÃ¡.</desc>
+    <credits>
+      <actor>Eduardo Santamarina</actor>
+      <actor>Claudia Islas</actor>
+      <actor>Ãrika Buenfil</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9286814_F1A6F2964838296F.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826183000 +0000" stop="20210826190000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Marisol</title>
+    <desc lang="es">Marisol tiene una vida pesada, ella tiene una cicatriz en su rostro ya que cuando era niÃ±a cayÃ³ en un espejo quebrado, pero ella se enamora de un hombre rico JosÃ© AndrÃ©s, desde entonces su vida cambiarÃ¡.</desc>
+    <credits>
+      <actor>Eduardo Santamarina</actor>
+      <actor>Claudia Islas</actor>
+      <actor>Ãrika Buenfil</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9286814_F1A6F2964838296F.jpg" />
+    <country lang="es">MX</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826190000 +0000" stop="20210826200000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">PerdÃ³name</title>
+    <desc lang="es">Feride perdiÃ³ a sus padres a muy temprana edad, por lo que es recibida en la familia Kozan, donde se enamora de Cuneyt, uno de los hijo de Osman, lÃ­der de la familia. Mientras tanto, Kemal se enamora de Bahar, a pesar de ser de distinta clase sociales.</desc>
+    <credits>
+      <actor>Gaye Turgut</actor>
+      <actor>Nusret Senay</actor>
+      <actor>Seyma Korkmaz</actor>
+      <actor>Murat Danaci</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/65/8655671_FAD153B476925E6D.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826200000 +0000" stop="20210826210000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Estrella de amor</title>
+    <desc lang="es">Kusey y Yildiz estaban enamorados, sin embargo, Ã©l se deja llevar por la vida de la gran ciudad de Estambul y termina casÃ¡ndose con otra mujer. 20 aÃ±os despuÃ©s, la vida lo obliga a regresar a su ciudad natal, donde Yildiz lo espera con el resentimiento intacto. Su amada esposa lo engaÃ±Ã³, se llevÃ³ todo el dinero y lo dejÃ³ en la calle a Ã©l y a sus tres hijas.</desc>
+    <credits>
+      <director>Ersoy GÃ¼ler</director>
+      <actor>Toygan Avanoglu</actor>
+      <actor>Aslihan GÃ¼ner</actor>
+      <actor>Aslihan Kapansahin</actor>
+      <actor>Berfin Nilsu Aktas</actor>
+      <actor>Gizem GÃ¼nes</actor>
+      <actor>Ismail Demirci</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9215097_44A3EBF8C969DEAC.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826210000 +0000" stop="20210826213000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826213000 +0000" stop="20210826220000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">Elif</title>
+    <desc lang="es">Drama que narra la triste historia de una pequeÃ±a niÃ±a llamada Elif, que serÃ¡ marcada por el odio desde su nacimiento, ya que fue concebida por el amor de dos jÃ³venes a quienes nunca los dejaron ser felices.</desc>
+    <credits>
+      <director>Fulya Yavuzoglu</director>
+      <actor>Isabella Damla GÃ¼venilir</actor>
+      <actor>Selin Sezgin</actor>
+      <actor>Altug Seckiner</actor>
+      <actor>Emre Kivilcim</actor>
+      <actor>Tevfik Yapici</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <category lang="es">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/07/9079158_4C9D9139DC6D1CFB.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210826220000 +0000" stop="20210826230000 +0000" channel="PER-ATV (TV)(720)">
+    <title lang="es">El secreto de Feriha</title>
+    <desc lang="es">Feriha Yilmaz es la hija de un portero en un exclusivo lugar. Ella se siente avergonzada de su situaciÃ³n y al ingresar a una exclusiva universidad, finge ser una chica de familia rica, pero su red de mentiras la irÃ¡n enredando de a pocos.</desc>
+    <credits>
+      <actor>Ãagatay Ulusoy</actor>
+      <actor>Hazal Kaya</actor>
+      <actor>Metin Ãekmez</actor>
+      <actor>Deniz Ugur</actor>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8702373_66FDC39023870EA8.jpg" />
+    <country lang="es">TR</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20210824023000 -0500" stop="20210824030000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Los Barriga</title>
   </programme>
-  <programme start="20210823030000 -0700" stop="20210823040000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824030000 -0500" stop="20210824040000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Despierta 90 Matinal</title>
   </programme>
-  <programme start="20210823040000 -0700" stop="20210823050000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824040000 -0500" stop="20210824050000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Matinal Nacional</title>
   </programme>
-  <programme start="20210823050000 -0700" stop="20210823070000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824050000 -0500" stop="20210824070000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Matinal</title>
   </programme>
-  <programme start="20210823070000 -0700" stop="20210823100000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824070000 -0500" stop="20210824100000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Mujeres al mando</title>
   </programme>
-  <programme start="20210823100000 -0700" stop="20210823123000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824100000 -0500" stop="20210824123000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Mediodía</title>
   </programme>
-  <programme start="20210823123000 -0700" stop="20210823153000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824123000 -0500" stop="20210824153000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210823153000 -0700" stop="20210823163000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824153000 -0500" stop="20210824163000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Omer Sueños Robados</title>
   </programme>
-  <programme start="20210823163000 -0700" stop="20210823173000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824163000 -0500" stop="20210824173000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">El Doctor milagro</title>
   </programme>
-  <programme start="20210823173000 -0700" stop="20210823183000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824173000 -0500" stop="20210824183000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Central</title>
   </programme>
-  <programme start="20210823183000 -0700" stop="20210823200000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824183000 -0500" stop="20210824200000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">La Voz</title>
   </programme>
-  <programme start="20210823200000 -0700" stop="20210823210000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824200000 -0500" stop="20210824210000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Hercai</title>
   </programme>
-  <programme start="20210823210000 -0700" stop="20210823220000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824210000 -0500" stop="20210824220000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">90 Noche</title>
   </programme>
-  <programme start="20210823220000 -0700" stop="20210823233000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824220000 -0500" stop="20210824233000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Guerra de Rosas</title>
   </programme>
-  <programme start="20210823233000 -0700" stop="20210824023000 -0700" channel="PER-Latina (TV)(720)">
+  <programme start="20210824233000 -0500" stop="20210825023000 -0500" channel="PER-Latina (TV)(720)">
     <title lang="es">Espacio alquilado</title>
   </programme>
-  <programme start="20210824153000 -0700" stop="20210824163000 -0700" channel="PER-Latina (TV)(720)">
-    <title lang="es">Omer Sueños Robados</title>
+  <programme start="20210825123000 -0500" stop="20210825153000 -0500" channel="PER-Latina (TV)(720)">
+    <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20210823023000 -0700" stop="20210823030000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824023000 -0500" stop="20210824030000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Tiempo del tiempo En Vivo</title>
   </programme>
-  <programme start="20210823030000 -0700" stop="20210823053000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824030000 -0500" stop="20210824053000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Arriba argentinos En Vivo</title>
   </programme>
-  <programme start="20210823053000 -0700" stop="20210823070000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824053000 -0500" stop="20210824070000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Nosotros a la mañana</title>
   </programme>
-  <programme start="20210823070000 -0700" stop="20210823090000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824070000 -0500" stop="20210824090000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Los ángeles de la mañana En Vivo</title>
   </programme>
-  <programme start="20210823090000 -0700" stop="20210823103000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824090000 -0500" stop="20210824103000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Noticiero Trece En Vivo</title>
   </programme>
-  <programme start="20210823103000 -0700" stop="20210823121500 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824103000 -0500" stop="20210824121500 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">100 argentinos dicen</title>
   </programme>
-  <programme start="20210823121500 -0700" stop="20210823130000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824121500 -0500" stop="20210824130000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">El Club de las Divorciadas</title>
   </programme>
-  <programme start="20210823130000 -0700" stop="20210823143000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824130000 -0500" stop="20210824143000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">El gran premio de la cocina</title>
   </programme>
-  <programme start="20210823143000 -0700" stop="20210823160000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824143000 -0500" stop="20210824160000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Bienvenidos a bordo</title>
   </programme>
-  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824160000 -0500" stop="20210824170000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Telenoche En Vivo</title>
   </programme>
-  <programme start="20210823170000 -0700" stop="20210823180000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824170000 -0500" stop="20210824180000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Los 8 Escalones</title>
   </programme>
-  <programme start="20210823180000 -0700" stop="20210823193000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824180000 -0500" stop="20210824193000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Showmatch</title>
   </programme>
-  <programme start="20210823193000 -0700" stop="20210823201500 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824193000 -0500" stop="20210824201500 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Síntesis</title>
   </programme>
-  <programme start="20210823201500 -0700" stop="20210823204500 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824201500 -0500" stop="20210824204500 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Cucinare</title>
   </programme>
-  <programme start="20210823204500 -0700" stop="20210824023000 -0700" channel="ARG-El Trece (O)(720)">
+  <programme start="20210824204500 -0500" stop="20210825023000 -0500" channel="ARG-El Trece (O)(720)">
     <title lang="es">Fuera del aire</title>
   </programme>
-  <programme start="20210824204500 -0700" stop="20210825023000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
+  <programme start="20210825130000 -0500" stop="20210825143000 -0500" channel="ARG-El Trece (O)(720)">
+    <title lang="es">El gran premio de la cocina</title>
   </programme>
-  <programme start="20210825160000 -0700" stop="20210825170000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Telenoche En Vivo</title>
-  </programme>
-  <programme start="20210825204500 -0700" stop="20210826050000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
-  </programme>
-  <programme start="20210826204500 -0700" stop="20210827050000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
-  </programme>
-  <programme start="20210827050000 -0700" stop="20210827053000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Panam y circo</title>
-  </programme>
-  <programme start="20210827053000 -0700" stop="20210827070000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827070000 -0700" stop="20210827080000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Agro TV</title>
-  </programme>
-  <programme start="20210827080000 -0700" stop="20210827102600 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827102600 -0700" stop="20210827121600 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827121600 -0700" stop="20210827140500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827140500 -0700" stop="20210827154100 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827154100 -0700" stop="20210827173000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210827173000 -0700" stop="20210827194500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">La noche de Mirtha</title>
-  </programme>
-  <programme start="20210827194500 -0700" stop="20210827203000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Resto del Mundo</title>
-  </programme>
-  <programme start="20210827203000 -0700" stop="20210827204500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuegas, ¡comer, asar, hablar</title>
-  </programme>
-  <programme start="20210827204500 -0700" stop="20210828043000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
-  </programme>
-  <programme start="20210828043000 -0700" stop="20210828044500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Piñón en familia</title>
-  </programme>
-  <programme start="20210828044500 -0700" stop="20210828053000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">El Garage TV</title>
-  </programme>
-  <programme start="20210828053000 -0700" stop="20210828084500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210828084500 -0700" stop="20210828093000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Los Tres Chiflados</title>
-  </programme>
-  <programme start="20210828093000 -0700" stop="20210828120000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Almorzando con Mirtha Legrand</title>
-  </programme>
-  <programme start="20210828120000 -0700" stop="20210828142300 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210828142300 -0700" stop="20210828163000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Película</title>
-  </programme>
-  <programme start="20210828163000 -0700" stop="20210828180000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">100 argentinos dicen</title>
-  </programme>
-  <programme start="20210828180000 -0700" stop="20210828190000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Periodismo Para Todos</title>
-  </programme>
-  <programme start="20210828190000 -0700" stop="20210828200000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Policias en Acción</title>
-  </programme>
-  <programme start="20210828200000 -0700" stop="20210828204500 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Pasión por el Fútbol</title>
-  </programme>
-  <programme start="20210828204500 -0700" stop="20210828210000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Cucinare</title>
-  </programme>
-  <programme start="20210828210000 -0700" stop="20210829023000 -0700" channel="ARG-El Trece (O)(720)">
-    <title lang="es">Fuera del aire</title>
-  </programme>
-  <programme start="20210823023000 -0700" stop="20210823024500 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824023000 -0500" stop="20210824024500 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">El show de la risa</title>
   </programme>
-  <programme start="20210823024500 -0700" stop="20210823031500 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824024500 -0500" stop="20210824031500 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">La Banda del choclito</title>
   </programme>
-  <programme start="20210823031500 -0700" stop="20210823043000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824031500 -0500" stop="20210824043000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Buenos días, Perú - Primera edición</title>
   </programme>
-  <programme start="20210823043000 -0700" stop="20210823073000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824043000 -0500" stop="20210824073000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Buenos días Perú - Segunda edición</title>
   </programme>
-  <programme start="20210823073000 -0700" stop="20210823083000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824073000 -0500" stop="20210824083000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Quality Products</title>
   </programme>
-  <programme start="20210823083000 -0700" stop="20210823090000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824083000 -0500" stop="20210824090000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los portales</title>
   </programme>
-  <programme start="20210823090000 -0700" stop="20210823103000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824090000 -0500" stop="20210824103000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">D'mañana</title>
   </programme>
-  <programme start="20210823103000 -0700" stop="20210823133000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824103000 -0500" stop="20210824133000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210823133000 -0700" stop="20210823150000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824133000 -0500" stop="20210824150000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Amor y prejuicio</title>
   </programme>
-  <programme start="20210823150000 -0700" stop="20210823160000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824150000 -0500" stop="20210824160000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Una luz de esperanza</title>
   </programme>
-  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824160000 -0500" stop="20210824170000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">La mujer en el espejo</title>
   </programme>
-  <programme start="20210823170000 -0700" stop="20210823173000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824170000 -0500" stop="20210824173000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">24 horas - Último minuto</title>
   </programme>
-  <programme start="20210823173000 -0700" stop="20210823183000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824173000 -0500" stop="20210824183000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Los Mejores Documentales</title>
   </programme>
-  <programme start="20210823183000 -0700" stop="20210823190000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824183000 -0500" stop="20210824190000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Alto al crimen</title>
   </programme>
-  <programme start="20210823190000 -0700" stop="20210823210000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824190000 -0500" stop="20210824210000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210823210000 -0700" stop="20210823221500 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824210000 -0500" stop="20210824221500 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Enfermeras</title>
   </programme>
-  <programme start="20210823221500 -0700" stop="20210824023000 -0700" channel="PER-Panamericana (TV)(720)">
+  <programme start="20210824221500 -0500" stop="20210825023000 -0500" channel="PER-Panamericana (TV)(720)">
     <title lang="es">Nutrisa</title>
   </programme>
-  <programme start="20210824160000 -0700" stop="20210824170000 -0700" channel="PER-Panamericana (TV)(720)">
-    <title lang="es">La mujer en el espejo</title>
+  <programme start="20210825133000 -0500" stop="20210825150000 -0500" channel="PER-Panamericana (TV)(720)">
+    <title lang="es">Amor y prejuicio</title>
   </programme>
-  <programme start="20210823010000 -0700" stop="20210823013000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824010000 -0500" stop="20210824013000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Nuestro Mundo</title>
   </programme>
-  <programme start="20210823013000 -0700" stop="20210823020000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Vive la salud</title>
+  <programme start="20210824013000 -0500" stop="20210824020000 -0500" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Mercado México</title>
   </programme>
-  <programme start="20210823020000 -0700" stop="20210823030000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824020000 -0500" stop="20210824030000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">En Dialogo con Longobardi</title>
   </programme>
-  <programme start="20210823030000 -0700" stop="20210823033000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824030000 -0500" stop="20210824033000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Aristegui Repetición</title>
   </programme>
-  <programme start="20210823033000 -0700" stop="20210823040000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824033000 -0500" stop="20210824040000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Deportes CNN</title>
   </programme>
-  <programme start="20210823040000 -0700" stop="20210823050000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824040000 -0500" stop="20210824050000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">CNN Primera Mañana</title>
   </programme>
-  <programme start="20210823050000 -0700" stop="20210823070000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824050000 -0500" stop="20210824070000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Café CNN En Vivo</title>
   </programme>
-  <programme start="20210823070000 -0700" stop="20210823080000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824070000 -0500" stop="20210824080000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Camilo Repetición</title>
   </programme>
-  <programme start="20210823080000 -0700" stop="20210823083000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824080000 -0500" stop="20210824083000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Aristegui Repetición</title>
   </programme>
-  <programme start="20210823083000 -0700" stop="20210823090000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN</title>
+  <programme start="20210824083000 -0500" stop="20210824090000 -0500" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">GloboEconomía</title>
   </programme>
-  <programme start="20210823090000 -0700" stop="20210823100000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Cnn dinero</title>
+  <programme start="20210824090000 -0500" stop="20210824100000 -0500" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Conecta2</title>
   </programme>
-  <programme start="20210823100000 -0700" stop="20210823120000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824100000 -0500" stop="20210824120000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Redacción con Nacho Girón</title>
   </programme>
-  <programme start="20210823120000 -0700" stop="20210823140000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824120000 -0500" stop="20210824140000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Redacción con Gabriela Frias</title>
   </programme>
-  <programme start="20210823140000 -0700" stop="20210823150000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824140000 -0500" stop="20210824150000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Directo USA con Juan Lopez</title>
   </programme>
-  <programme start="20210823150000 -0700" stop="20210823160000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824150000 -0500" stop="20210824160000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Perspectivas desde Mexico</title>
   </programme>
-  <programme start="20210823160000 -0700" stop="20210823170000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824160000 -0500" stop="20210824170000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Perspectivas desde B.A</title>
   </programme>
-  <programme start="20210823170000 -0700" stop="20210823180000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824170000 -0500" stop="20210824180000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Panorama Mundial</title>
   </programme>
-  <programme start="20210823180000 -0700" stop="20210823190000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824180000 -0500" stop="20210824190000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Camilo En Vivo</title>
   </programme>
-  <programme start="20210823190000 -0700" stop="20210823200000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824190000 -0500" stop="20210824200000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Conclusiones En Vivo</title>
   </programme>
-  <programme start="20210823200000 -0700" stop="20210823203000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824200000 -0500" stop="20210824203000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Aristegui</title>
   </programme>
-  <programme start="20210823203000 -0700" stop="20210823210000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824203000 -0500" stop="20210824210000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Triunfadores del Deporte</title>
   </programme>
-  <programme start="20210823210000 -0700" stop="20210823220000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824210000 -0500" stop="20210824220000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Mirador Mundial</title>
   </programme>
-  <programme start="20210823220000 -0700" stop="20210823230000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824220000 -0500" stop="20210824230000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Oppenheimer presenta</title>
   </programme>
-  <programme start="20210823230000 -0700" stop="20210823233000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824230000 -0500" stop="20210824233000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Deportes CNN</title>
   </programme>
-  <programme start="20210823233000 -0700" stop="20210824000000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210824233000 -0500" stop="20210825000000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Triunfadores del Deporte</title>
   </programme>
-  <programme start="20210824013000 -0700" stop="20210824020000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mercado México</title>
-  </programme>
-  <programme start="20210824083000 -0700" stop="20210824090000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210824090000 -0700" stop="20210824100000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Conecta2</title>
-  </programme>
-  <programme start="20210824160000 -0700" stop="20210824170000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde B.A</title>
-  </programme>
-  <programme start="20210825083000 -0700" stop="20210825090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210825083000 -0500" stop="20210825090000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Vive la salud</title>
   </programme>
-  <programme start="20210825090000 -0700" stop="20210825100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210825090000 -0500" stop="20210825100000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Oppenheimer presenta</title>
   </programme>
-  <programme start="20210826083000 -0700" stop="20210826090000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210825120000 -0500" stop="20210825140000 -0500" channel="NOT-CNN en Español (M)(1080)">
+    <title lang="es">Redacción con Gabriela Frias</title>
+  </programme>
+  <programme start="20210826083000 -0500" stop="20210826090000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">Clix</title>
   </programme>
-  <programme start="20210826090000 -0700" stop="20210826100000 -0700" channel="NOT-CNN en Español (M)(1080)">
+  <programme start="20210826090000 -0500" stop="20210826100000 -0500" channel="NOT-CNN en Español (M)(1080)">
     <title lang="es">En Dialogo con Longobardi</title>
   </programme>
-  <programme start="20210827083000 -0700" stop="20210827090000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Triunfadores del Deporte</title>
-  </programme>
-  <programme start="20210827090000 -0700" stop="20210827100000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210827203000 -0700" stop="20210827210000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN En Vivo</title>
-  </programme>
-  <programme start="20210827210000 -0700" stop="20210827220000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde Mexico</title>
-  </programme>
-  <programme start="20210827220000 -0700" stop="20210827230000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Directo USA con Juan Lopez</title>
-  </programme>
-  <programme start="20210827230000 -0700" stop="20210828000000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Panorama Mundial</title>
-  </programme>
-  <programme start="20210828000000 -0700" stop="20210828010000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Conclusiones</title>
-  </programme>
-  <programme start="20210828010000 -0700" stop="20210828020000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Camilo Repetición</title>
-  </programme>
-  <programme start="20210828020000 -0700" stop="20210828030000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde B.A</title>
-  </programme>
-  <programme start="20210828030000 -0700" stop="20210828033000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Aristegui Repetición</title>
-  </programme>
-  <programme start="20210828033000 -0700" stop="20210828040000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210828040000 -0700" stop="20210828043000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN</title>
-  </programme>
-  <programme start="20210828043000 -0700" stop="20210828050000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Triunfadores del Deporte</title>
-  </programme>
-  <programme start="20210828050000 -0700" stop="20210828053000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Vive la salud</title>
-  </programme>
-  <programme start="20210828053000 -0700" stop="20210828060000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Clix</title>
-  </programme>
-  <programme start="20210828060000 -0700" stop="20210828070000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210828070000 -0700" stop="20210828080000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde Mexico</title>
-  </programme>
-  <programme start="20210828080000 -0700" stop="20210828090000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Perspectivas desde B.A</title>
-  </programme>
-  <programme start="20210828090000 -0700" stop="20210828100000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Directo USA con Juan Lopez</title>
-  </programme>
-  <programme start="20210828100000 -0700" stop="20210828103000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN</title>
-  </programme>
-  <programme start="20210828103000 -0700" stop="20210828110000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mercado México</title>
-  </programme>
-  <programme start="20210828110000 -0700" stop="20210828120000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210828120000 -0700" stop="20210828130000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">En Dialogo con Longobardi</title>
-  </programme>
-  <programme start="20210828130000 -0700" stop="20210828140000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Oppenheimer presenta</title>
-  </programme>
-  <programme start="20210828140000 -0700" stop="20210828143000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Clix</title>
-  </programme>
-  <programme start="20210828143000 -0700" stop="20210828150000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210828150000 -0700" stop="20210828160000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mirador Mundial</title>
-  </programme>
-  <programme start="20210828160000 -0700" stop="20210828170000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Cnn dinero</title>
-  </programme>
-  <programme start="20210828170000 -0700" stop="20210828173000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Aristegui</title>
-  </programme>
-  <programme start="20210828173000 -0700" stop="20210828180000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Vive la salud</title>
-  </programme>
-  <programme start="20210828180000 -0700" stop="20210828190000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Conecta2</title>
-  </programme>
-  <programme start="20210828190000 -0700" stop="20210828200000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mirador Mundial</title>
-  </programme>
-  <programme start="20210828200000 -0700" stop="20210828203000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN En Vivo</title>
-  </programme>
-  <programme start="20210828220000 -0700" stop="20210828230000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Cnn dinero</title>
-  </programme>
-  <programme start="20210828230000 -0700" stop="20210829000000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210829000000 -0700" stop="20210829003000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Nuestro Mundo</title>
-  </programme>
-  <programme start="20210829003000 -0700" stop="20210829010000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Vive la salud</title>
-  </programme>
-  <programme start="20210829010000 -0700" stop="20210829013000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN</title>
-  </programme>
-  <programme start="20210829013000 -0700" stop="20210829020000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Triunfadores del Deporte</title>
-  </programme>
-  <programme start="20210829020000 -0700" stop="20210829023000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Clix</title>
-  </programme>
-  <programme start="20210829023000 -0700" stop="20210829030000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210829030000 -0700" stop="20210829040000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">En Dialogo con Longobardi</title>
-  </programme>
-  <programme start="20210829040000 -0700" stop="20210829050000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Oppenheimer presenta</title>
-  </programme>
-  <programme start="20210829050000 -0700" stop="20210829053000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Clix</title>
-  </programme>
-  <programme start="20210829053000 -0700" stop="20210829060000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210829060000 -0700" stop="20210829070000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Choque de Opiniones</title>
-  </programme>
-  <programme start="20210829070000 -0700" stop="20210829080000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Cnn dinero</title>
-  </programme>
-  <programme start="20210829080000 -0700" stop="20210829090000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Conecta2</title>
-  </programme>
-  <programme start="20210829090000 -0700" stop="20210829093000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Nuestro Mundo</title>
-  </programme>
-  <programme start="20210829093000 -0700" stop="20210829100000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">GloboEconomía</title>
-  </programme>
-  <programme start="20210829100000 -0700" stop="20210829110000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Choque de Opiniones</title>
-  </programme>
-  <programme start="20210829110000 -0700" stop="20210829113000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Vive la salud</title>
-  </programme>
-  <programme start="20210829113000 -0700" stop="20210829120000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Triunfadores del Deporte</title>
-  </programme>
-  <programme start="20210829120000 -0700" stop="20210829123000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Nuestro Mundo</title>
-  </programme>
-  <programme start="20210829123000 -0700" stop="20210829130000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Clix</title>
-  </programme>
-  <programme start="20210829130000 -0700" stop="20210829140000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210829140000 -0700" stop="20210829150000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Cnn dinero</title>
-  </programme>
-  <programme start="20210829160000 -0700" stop="20210829170000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Documentales CNN or Docufilms</title>
-  </programme>
-  <programme start="20210829170000 -0700" stop="20210829180000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Oppenheimer presenta</title>
-  </programme>
-  <programme start="20210829180000 -0700" stop="20210829190000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">En Dialogo con Longobardi</title>
-  </programme>
-  <programme start="20210829190000 -0700" stop="20210829200000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mirador Mundial</title>
-  </programme>
-  <programme start="20210829200000 -0700" stop="20210829203000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN En Vivo</title>
-  </programme>
-  <programme start="20210829203000 -0700" stop="20210829210000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Especial deportes</title>
-  </programme>
-  <programme start="20210829210000 -0700" stop="20210829220000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Mirador Mundial</title>
-  </programme>
-  <programme start="20210829220000 -0700" stop="20210829230000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Oppenheimer presenta</title>
-  </programme>
-  <programme start="20210829230000 -0700" stop="20210829233000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Deportes CNN</title>
-  </programme>
-  <programme start="20210829233000 -0700" stop="20210830000000 -0700" channel="NOT-CNN en Español (M)(1080)">
-    <title lang="es">Triunfadores del Deporte</title>
-  </programme>
-  <programme start="20210823013000 -0700" stop="20210823030000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Cuarto Poder</title>
-  </programme>
-  <programme start="20210823030000 -0700" stop="20210823050000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América noticias - Primera edición - Local</title>
-  </programme>
-  <programme start="20210823050000 -0700" stop="20210823073000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América Noticias: Primera edición</title>
-  </programme>
-  <programme start="20210823073000 -0700" stop="20210823090000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América Hoy</title>
-  </programme>
-  <programme start="20210823090000 -0700" stop="20210823100000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210823100000 -0700" stop="20210823110000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210823110000 -0700" stop="20210823130000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">En boca de todos</title>
-  </programme>
-  <programme start="20210823130000 -0700" stop="20210823140000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Al fondo hay sitio</title>
-  </programme>
-  <programme start="20210823140000 -0700" stop="20210823150000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210823150000 -0700" stop="20210823170000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Los milagros de la rosa</title>
-  </programme>
-  <programme start="20210823170000 -0700" stop="20210823183000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Esto es guerra</title>
-  </programme>
-  <programme start="20210823183000 -0700" stop="20210823193000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">De Vuelta Al Barrio</title>
-  </programme>
-  <programme start="20210823193000 -0700" stop="20210823203000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Luz de luna</title>
-  </programme>
-  <programme start="20210823203000 -0700" stop="20210823213000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210823213000 -0700" stop="20210823223000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">La banda del chino</title>
-  </programme>
-  <programme start="20210823223000 -0700" stop="20210823233000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210823233000 -0700" stop="20210824003000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210824233000 -0700" stop="20210825003000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210825003000 -0700" stop="20210825010000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824003000 -0500" stop="20210824010000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América espectáculos</title>
   </programme>
-  <programme start="20210825010000 -0700" stop="20210825030000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824010000 -0500" stop="20210824030000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210825030000 -0700" stop="20210825050000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824030000 -0500" stop="20210824050000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América noticias - Primera edición - Local</title>
   </programme>
-  <programme start="20210825050000 -0700" stop="20210825073000 -0700" channel="PER-America TV (TV)(720)">
-    <title lang="es">América Noticias: Primera edición</title>
+  <programme start="20210824050000 -0500" stop="20210824073000 -0500" channel="PER-America TV (TV)(720)">
+    <title lang="es">América noticias primera edición</title>
   </programme>
-  <programme start="20210825073000 -0700" stop="20210825090000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824073000 -0500" stop="20210824090000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América Hoy</title>
   </programme>
-  <programme start="20210825090000 -0700" stop="20210825100000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824090000 -0500" stop="20210824100000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Fuego ardiente</title>
   </programme>
-  <programme start="20210825100000 -0700" stop="20210825110000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824100000 -0500" stop="20210824110000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210825110000 -0700" stop="20210825130000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824110000 -0500" stop="20210824130000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210825130000 -0700" stop="20210825140000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824130000 -0500" stop="20210824140000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Al fondo hay sitio</title>
   </programme>
-  <programme start="20210825140000 -0700" stop="20210825150000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824140000 -0500" stop="20210824150000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Quererlo todo</title>
   </programme>
-  <programme start="20210825150000 -0700" stop="20210825170000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824150000 -0500" stop="20210824170000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Los milagros de la rosa</title>
   </programme>
-  <programme start="20210825170000 -0700" stop="20210825183000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824170000 -0500" stop="20210824183000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Esto es guerra</title>
   </programme>
-  <programme start="20210825183000 -0700" stop="20210825193000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824183000 -0500" stop="20210824193000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">De Vuelta Al Barrio</title>
   </programme>
-  <programme start="20210825193000 -0700" stop="20210825203000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824193000 -0500" stop="20210824203000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Luz de luna</title>
   </programme>
-  <programme start="20210825203000 -0700" stop="20210825213000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824203000 -0500" stop="20210824213000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210825213000 -0700" stop="20210825223000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824213000 -0500" stop="20210824223000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">La banda del chino</title>
   </programme>
-  <programme start="20210825223000 -0700" stop="20210825233000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210824223000 -0500" stop="20210824233000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">Quererlo todo</title>
   </programme>
-  <programme start="20210826203000 -0700" stop="20210826205000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210825130000 -0500" stop="20210825140000 -0500" channel="PER-America TV (TV)(720)">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20210825203000 -0500" stop="20210825205000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210826205000 -0700" stop="20210826205500 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210825205000 -0500" stop="20210825205500 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">La Tinka</title>
   </programme>
-  <programme start="20210826205500 -0700" stop="20210826213000 -0700" channel="PER-America TV (TV)(720)">
+  <programme start="20210825205500 -0500" stop="20210825213000 -0500" channel="PER-America TV (TV)(720)">
     <title lang="es">América Noticias</title>
   </programme>
 </tv>
